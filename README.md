@@ -9,6 +9,7 @@ The primary deliverables are:
 - `W6_TaskPlan.md` — master task plan with questions, checks, and guidance
 - `TASK_PROGRESS.md` — task progress tracker for the week
 - `W6_Probabilistic_Models_Resource_Guide.pdf` — supporting resource guide
+- `telco_bayes_lr_v1.pkl` — saved PyMC trace artifact for Bayesian logistic regression
 
 ## Repository structure
 
@@ -43,6 +44,12 @@ pip install -r requirements.txt
 - `telco_bayes_lr_v1.pkl` saved from the Bayesian logistic regression model
 - One-page reflection PDF or Markdown document
 - Notebook was validated and updated for current `pgmpy`/`arviz` compatibility where needed
+
+## Current status
+
+- Notebook work is complete and task progress has been updated in `TASK_PROGRESS.md`
+- `telco_bayes_lr_v1.pkl` has been generated and saved in the repository
+- Recent repository changes have been synced to `origin/main`
 
 ## Notes
 
