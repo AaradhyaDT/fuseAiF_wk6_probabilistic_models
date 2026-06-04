@@ -4,76 +4,166 @@
   "graph": {},
   "nodes": [
     {
+      "label": "setup_git_lfs.ps1",
+      "file_type": "code",
+      "source_file": "setup_git_lfs.ps1",
+      "source_location": "L1",
+      "id": "setup_git_lfs",
+      "community": 18,
+      "norm_label": "setup_git_lfs.ps1"
+    },
+    {
+      "label": "GIT_LFS_GUIDE.md",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L1",
+      "community": 11,
+      "norm_label": "git_lfs_guide.md",
+      "id": "git_lfs_guide"
+    },
+    {
+      "label": "Git LFS Guide for Large Model Artifacts",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L1",
+      "community": 11,
+      "norm_label": "git lfs guide for large model artifacts",
+      "id": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts"
+    },
+    {
+      "label": "Why use Git LFS",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L5",
+      "community": 11,
+      "norm_label": "why use git lfs",
+      "id": "git_lfs_guide_why_use_git_lfs"
+    },
+    {
+      "label": "What was added",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L10",
+      "community": 11,
+      "norm_label": "what was added",
+      "id": "git_lfs_guide_what_was_added"
+    },
+    {
+      "label": "Setup steps",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L18",
+      "community": 11,
+      "norm_label": "setup steps",
+      "id": "git_lfs_guide_setup_steps"
+    },
+    {
+      "label": "How to add a new model file",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L58",
+      "community": 11,
+      "norm_label": "how to add a new model file",
+      "id": "git_lfs_guide_how_to_add_a_new_model_file"
+    },
+    {
+      "label": "If you already committed a large file",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L77",
+      "community": 11,
+      "norm_label": "if you already committed a large file",
+      "id": "git_lfs_guide_if_you_already_committed_a_large_file"
+    },
+    {
+      "label": "Cloning this repo in the future",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L95",
+      "community": 11,
+      "norm_label": "cloning this repo in the future",
+      "id": "git_lfs_guide_cloning_this_repo_in_the_future"
+    },
+    {
+      "label": "Best practice",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L106",
+      "community": 11,
+      "norm_label": "best practice",
+      "id": "git_lfs_guide_best_practice"
+    },
+    {
       "label": "graphify.md",
       "file_type": "document",
       "source_file": ".agents/rules/graphify.md",
       "source_location": "L1",
-      "id": "rules_graphify",
       "community": 13,
-      "norm_label": "graphify.md"
+      "norm_label": "graphify.md",
+      "id": "rules_graphify"
     },
     {
       "label": "graphify",
       "file_type": "document",
       "source_file": ".agents/rules/graphify.md",
       "source_location": "L6",
-      "id": "rules_graphify_graphify",
       "community": 13,
-      "norm_label": "graphify"
+      "norm_label": "graphify",
+      "id": "rules_graphify_graphify"
     },
     {
       "label": "graphify.md",
       "file_type": "document",
       "source_file": ".agents/workflows/graphify.md",
       "source_location": "L1",
-      "id": "workflows_graphify",
       "community": 15,
-      "norm_label": "graphify.md"
+      "norm_label": "graphify.md",
+      "id": "workflows_graphify"
     },
     {
       "label": "Workflow: graphify",
       "file_type": "document",
       "source_file": ".agents/workflows/graphify.md",
       "source_location": "L6",
-      "id": "workflows_graphify_workflow_graphify",
       "community": 15,
-      "norm_label": "workflow: graphify"
+      "norm_label": "workflow: graphify",
+      "id": "workflows_graphify_workflow_graphify"
     },
     {
       "label": "copilot-instructions.md",
       "file_type": "document",
       "source_file": ".github/copilot-instructions.md",
       "source_location": "L1",
-      "id": "github_copilot_instructions",
       "community": 12,
-      "norm_label": "copilot-instructions.md"
+      "norm_label": "copilot-instructions.md",
+      "id": "github_copilot_instructions"
     },
     {
       "label": "graphify",
       "file_type": "document",
       "source_file": ".github/copilot-instructions.md",
       "source_location": "L1",
-      "id": "github_copilot_instructions_graphify",
       "community": 12,
-      "norm_label": "graphify"
+      "norm_label": "graphify",
+      "id": "github_copilot_instructions_graphify"
     },
     {
       "label": "GEMINI.md",
       "file_type": "document",
       "source_file": "GEMINI.md",
       "source_location": "L1",
-      "id": "gemini",
       "community": 10,
-      "norm_label": "gemini.md"
+      "norm_label": "gemini.md",
+      "id": "gemini"
     },
     {
       "label": "graphify",
       "file_type": "document",
       "source_file": "GEMINI.md",
       "source_location": "L1",
-      "id": "gemini_graphify",
       "community": 10,
-      "norm_label": "graphify"
+      "norm_label": "graphify",
+      "id": "gemini_graphify"
     },
     {
       "label": "README.md",
@@ -746,6 +836,86 @@
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide",
+      "target": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L106",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_best_practice"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L95",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_cloning_this_repo_in_the_future"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_how_to_add_a_new_model_file"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L77",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_if_you_already_committed_a_large_file"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_setup_steps"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_what_was_added"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_why_use_git_lfs"
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
@@ -1458,5 +1628,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "6c2d5ab17498b6eeca6c53b6a58e80741e053579"
+  "built_at_commit": "c8e17e891b8bf2253618960efbe98f293f669f1a"
 }
