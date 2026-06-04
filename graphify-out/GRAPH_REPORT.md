@@ -5,12 +5,12 @@
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 84 nodes · 73 edges · 18 communities (13 shown, 5 thin omitted)
+- 81 nodes · 71 edges · 17 communities (13 shown, 4 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `502864d7`
+- Built from commit: `6c2d5ab1`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -26,7 +26,6 @@
 - [[_COMMUNITY_Community 8|Community 8]]
 - [[_COMMUNITY_Community 9|Community 9]]
 - [[_COMMUNITY_Community 10|Community 10]]
-- [[_COMMUNITY_Community 11|Community 11]]
 - [[_COMMUNITY_Community 12|Community 12]]
 - [[_COMMUNITY_Community 13|Community 13]]
 - [[_COMMUNITY_Community 15|Community 15]]
@@ -49,7 +48,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (18 total, 5 thin omitted)
+## Communities (17 total, 4 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.18
@@ -92,18 +91,18 @@ Cohesion: 0.40
 Nodes (5): PART 4 · PROBABILISTIC GRAPHICAL MODELS, Q11 · Build and fit Bayesian Network `[ ]`, Q12 · Structure sensitivity: two competing DAGs `[ ]`, Q13 · Markov Random Field `[ ]`, ✍️ Reflect 4 `[ ]`
 
 ## Knowledge Gaps
-- **62 isolated node(s):** `Overview`, `Repository structure`, `Setup`, `How to use this repo`, `Submission artifacts` (+57 more)
+- **61 isolated node(s):** `graphify`, `Workflow: graphify`, `graphify`, `graphify`, `Overview` (+56 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **5 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **4 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `W6 — Probabilistic Models & Bayesian Inference` connect `Community 3` to `Community 2`, `Community 4`, `Community 5`, `Community 6`, `Community 7`, `Community 8`, `Community 9`?**
-  _High betweenness centrality (0.325) - this node is a cross-community bridge._
+  _High betweenness centrality (0.350) - this node is a cross-community bridge._
 - **Why does `SUBMISSION CHECKLIST` connect `Community 2` to `Community 3`?**
-  _High betweenness centrality (0.095) - this node is a cross-community bridge._
+  _High betweenness centrality (0.102) - this node is a cross-community bridge._
 - **Why does `PART 6 · MCMC — BAYESIAN LOGISTIC REGRESSION` connect `Community 4` to `Community 3`?**
-  _High betweenness centrality (0.082) - this node is a cross-community bridge._
-- **What connects `Overview`, `Repository structure`, `Setup` to the rest of the system?**
-  _62 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _High betweenness centrality (0.088) - this node is a cross-community bridge._
+- **What connects `graphify`, `Workflow: graphify`, `graphify` to the rest of the system?**
+  _61 weakly-connected nodes found - possible documentation gaps or missing edges._
