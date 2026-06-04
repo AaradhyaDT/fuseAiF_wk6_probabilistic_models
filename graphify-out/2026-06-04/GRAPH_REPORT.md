@@ -2,18 +2,18 @@
 
 ## Corpus Check
 
-- 10 files · ~5,165 words
+- 10 files · ~5,211 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
 
-- 104 nodes · 93 edges · 18 communities (15 shown, 3 thin omitted)
+- 105 nodes · 94 edges · 18 communities (15 shown, 3 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.9)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
 
-- Built from commit: `bf058f57`
+- Built from commit: `1f1f78a4`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -39,8 +39,8 @@
 1. `W6 — Probabilistic Models & Bayesian Inference` - 13 edges
 2. `Week 6 Task Progress` - 12 edges
 3. `SUBMISSION CHECKLIST` - 9 edges
-4. `Git LFS Guide for Large Model Artifacts` - 8 edges
-5. `fuseAiF_wk6_probabilistic_models` - 7 edges
+4. `fuseAiF_wk6_probabilistic_models` - 8 edges
+5. `Git LFS Guide for Large Model Artifacts` - 8 edges
 6. `PART 3 · MULTIVARIATE GAUSSIANS` - 7 edges
 7. `PART 6 · MCMC — BAYESIAN LOGISTIC REGRESSION` - 7 edges
 8. `graphify` - 6 edges
@@ -49,10 +49,10 @@
 
 ## Surprising Connections (you probably didn't know these)
 
-- `graphify` --references--> `graphify`  [EXTRACTED]
-  .github/copilot-instructions.md → GEMINI.md
 - `Overview` --references--> `Master Task Plan`  [EXTRACTED]
   README.md → W6_TaskPlan.md
+- `graphify` --references--> `graphify`  [EXTRACTED]
+  .github/copilot-instructions.md → GEMINI.md
 
 ## Import Cycles
 
@@ -82,8 +82,8 @@ Nodes (9): graphify, graphify-out/graph.json, graphify-out/GRAPH_REPORT.md, grap
 
 ### Community 4 - "Community 4"
 
-Cohesion: 0.22
-Nodes (8): fuseAiF_wk6_probabilistic_models, How to use this repo, Notes, Overview, Repository structure, Setup, Submission artifacts, Master Task Plan
+Cohesion: 0.20
+Nodes (9): Current status, fuseAiF_wk6_probabilistic_models, How to use this repo, Notes, Overview, Repository structure, Setup, Submission artifacts (+1 more)
 
 ### Community 5 - "Community 5"
 
@@ -117,7 +117,7 @@ Nodes (6): PART 3 · MULTIVARIATE GAUSSIANS, Q10 · 3D Covariance + Condition Nu
 
 ## Knowledge Gaps
 
-- **73 isolated node(s):** `Repo artifacts found`, `Repo maintenance`, `Part 1 — Estimation Trinity`, `Part 2 — Sequential Updating & Dirichlet-Multinomial`, `Part 3 — Multivariate Gaussians` (+68 more)
+- **74 isolated node(s):** `Repository structure`, `Setup`, `How to use this repo`, `Submission artifacts`, `Current status` (+69 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -126,10 +126,10 @@ Nodes (6): PART 3 · MULTIVARIATE GAUSSIANS, Q10 · 3D Covariance + Condition Nu
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `W6 — Probabilistic Models & Bayesian Inference` connect `Community 2` to `Community 0`, `Community 6`, `Community 7`, `Community 8`, `Community 9`, `Community 17`?**
-  _High betweenness centrality (0.201) - this node is a cross-community bridge._
+  _High betweenness centrality (0.198) - this node is a cross-community bridge._
 - **Why does `SUBMISSION CHECKLIST` connect `Community 0` to `Community 17`, `Community 2`?**
-  _High betweenness centrality (0.061) - this node is a cross-community bridge._
+  _High betweenness centrality (0.060) - this node is a cross-community bridge._
 - **Why does `PART 6 · MCMC — BAYESIAN LOGISTIC REGRESSION` connect `Community 6` to `Community 2`?**
-  _High betweenness centrality (0.053) - this node is a cross-community bridge._
-- **What connects `Repo artifacts found`, `Repo maintenance`, `Part 1 — Estimation Trinity` to the rest of the system?**
-  _74 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _High betweenness centrality (0.052) - this node is a cross-community bridge._
+- **What connects `Repository structure`, `Setup`, `How to use this repo` to the rest of the system?**
+  _75 weakly-connected nodes found - possible documentation gaps or missing edges._

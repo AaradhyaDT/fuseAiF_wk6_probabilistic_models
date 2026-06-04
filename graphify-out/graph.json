@@ -4,6 +4,87 @@
   "graph": {},
   "nodes": [
     {
+      "label": "GIT_LFS_GUIDE.md",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L1",
+      "id": "git_lfs_guide",
+      "community": 5,
+      "norm_label": "git_lfs_guide.md"
+    },
+    {
+      "label": "Git LFS Guide for Large Model Artifacts",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L1",
+      "id": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "community": 5,
+      "norm_label": "git lfs guide for large model artifacts"
+    },
+    {
+      "label": "Why use Git LFS",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L5",
+      "id": "git_lfs_guide_why_use_git_lfs",
+      "community": 5,
+      "norm_label": "why use git lfs"
+    },
+    {
+      "label": "What was added",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L10",
+      "id": "git_lfs_guide_what_was_added",
+      "community": 5,
+      "norm_label": "what was added"
+    },
+    {
+      "label": "Setup steps",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L18",
+      "id": "git_lfs_guide_setup_steps",
+      "community": 5,
+      "norm_label": "setup steps"
+    },
+    {
+      "label": "How to add a new model file",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L60",
+      "id": "git_lfs_guide_how_to_add_a_new_model_file",
+      "community": 5,
+      "norm_label": "how to add a new model file"
+    },
+    {
+      "label": "If you already committed a large file",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L79",
+      "id": "git_lfs_guide_if_you_already_committed_a_large_file",
+      "community": 5,
+      "norm_label": "if you already committed a large file"
+    },
+    {
+      "label": "Cloning this repo in the future",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L97",
+      "id": "git_lfs_guide_cloning_this_repo_in_the_future",
+      "community": 5,
+      "norm_label": "cloning this repo in the future"
+    },
+    {
+      "label": "Best practice",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L108",
+      "id": "git_lfs_guide_best_practice",
+      "community": 5,
+      "norm_label": "best practice"
+    },
+    {
       "label": "README.md",
       "file_type": "document",
       "source_file": "README.md",
@@ -34,7 +115,7 @@
       "label": "Repository structure",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L14",
+      "source_location": "L15",
       "id": "readme_repository_structure",
       "community": 4,
       "norm_label": "repository structure"
@@ -43,7 +124,7 @@
       "label": "Setup",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L23",
+      "source_location": "L24",
       "id": "readme_setup",
       "community": 4,
       "norm_label": "setup"
@@ -52,7 +133,7 @@
       "label": "How to use this repo",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L35",
+      "source_location": "L36",
       "id": "readme_how_to_use_this_repo",
       "community": 4,
       "norm_label": "how to use this repo"
@@ -61,7 +142,7 @@
       "label": "Submission artifacts",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L41",
+      "source_location": "L42",
       "id": "readme_submission_artifacts",
       "community": 4,
       "norm_label": "submission artifacts"
@@ -70,7 +151,7 @@
       "label": "Current status",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L48",
+      "source_location": "L49",
       "id": "readme_current_status",
       "community": 4,
       "norm_label": "current status"
@@ -79,7 +160,7 @@
       "label": "Notes",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L54",
+      "source_location": "L55",
       "id": "readme_notes",
       "community": 4,
       "norm_label": "notes"
@@ -89,117 +170,108 @@
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L1",
+      "id": "task_progress",
       "community": 1,
-      "norm_label": "task_progress.md",
-      "id": "task_progress"
+      "norm_label": "task_progress.md"
     },
     {
       "label": "Week 6 Task Progress",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L1",
+      "id": "task_progress_week_6_task_progress",
       "community": 1,
-      "norm_label": "week 6 task progress",
-      "id": "task_progress_week_6_task_progress"
+      "norm_label": "week 6 task progress"
     },
     {
       "label": "Repo artifacts found",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L7",
+      "id": "task_progress_repo_artifacts_found",
       "community": 1,
-      "norm_label": "repo artifacts found",
-      "id": "task_progress_repo_artifacts_found"
+      "norm_label": "repo artifacts found"
     },
     {
       "label": "Repo maintenance",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L13",
+      "source_location": "L14",
+      "id": "task_progress_repo_maintenance",
       "community": 1,
-      "norm_label": "repo maintenance",
-      "id": "task_progress_repo_maintenance"
+      "norm_label": "repo maintenance"
     },
     {
       "label": "Part 1 \u2014 Estimation Trinity",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L20",
+      "source_location": "L22",
+      "id": "task_progress_part_1_estimation_trinity",
       "community": 1,
-      "norm_label": "part 1 \u2014 estimation trinity",
-      "id": "task_progress_part_1_estimation_trinity"
+      "norm_label": "part 1 \u2014 estimation trinity"
     },
     {
       "label": "Part 2 \u2014 Sequential Updating & Dirichlet-Multinomial",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L27",
+      "source_location": "L30",
+      "id": "task_progress_part_2_sequential_updating_dirichlet_multinomial",
       "community": 1,
-      "norm_label": "part 2 \u2014 sequential updating & dirichlet-multinomial",
-      "id": "task_progress_part_2_sequential_updating_dirichlet_multinomial"
+      "norm_label": "part 2 \u2014 sequential updating & dirichlet-multinomial"
     },
     {
       "label": "Part 3 \u2014 Multivariate Gaussians",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L34",
+      "source_location": "L38",
+      "id": "task_progress_part_3_multivariate_gaussians",
       "community": 1,
-      "norm_label": "part 3 \u2014 multivariate gaussians",
-      "id": "task_progress_part_3_multivariate_gaussians"
+      "norm_label": "part 3 \u2014 multivariate gaussians"
     },
     {
       "label": "Part 4 \u2014 Probabilistic Graphical Models",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L40",
+      "source_location": "L45",
+      "id": "task_progress_part_4_probabilistic_graphical_models",
       "community": 1,
-      "norm_label": "part 4 \u2014 probabilistic graphical models",
-      "id": "task_progress_part_4_probabilistic_graphical_models"
+      "norm_label": "part 4 \u2014 probabilistic graphical models"
     },
     {
       "label": "Part 5 \u2014 Gaussian Process Regression",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L46",
+      "source_location": "L52",
+      "id": "task_progress_part_5_gaussian_process_regression",
       "community": 1,
-      "norm_label": "part 5 \u2014 gaussian process regression",
-      "id": "task_progress_part_5_gaussian_process_regression"
+      "norm_label": "part 5 \u2014 gaussian process regression"
     },
     {
       "label": "Part 6 \u2014 MCMC Bayesian Logistic Regression",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L53",
+      "source_location": "L60",
+      "id": "task_progress_part_6_mcmc_bayesian_logistic_regression",
       "community": 1,
-      "norm_label": "part 6 \u2014 mcmc bayesian logistic regression",
-      "id": "task_progress_part_6_mcmc_bayesian_logistic_regression"
+      "norm_label": "part 6 \u2014 mcmc bayesian logistic regression"
     },
     {
       "label": "Submission artifacts",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
-      "source_location": "L61",
-      "community": 1,
-      "norm_label": "submission artifacts",
-      "id": "task_progress_submission_artifacts"
-    },
-    {
-      "label": "Notes",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L66",
-      "community": 1,
-      "norm_label": "notes",
-      "id": "task_progress_notes"
-    },
-    {
-      "label": "Notes",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
       "source_location": "L69",
+      "id": "task_progress_submission_artifacts",
       "community": 1,
-      "norm_label": "notes",
-      "id": "task_progress_notes_69"
+      "norm_label": "submission artifacts"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L75",
+      "id": "task_progress_notes",
+      "community": 1,
+      "norm_label": "notes"
     },
     {
       "label": "generate_w6_trace.py",
@@ -299,87 +371,6 @@
       "community": 3,
       "norm_label": "graphify",
       "id": "gemini_graphify"
-    },
-    {
-      "label": "GIT_LFS_GUIDE.md",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L1",
-      "community": 5,
-      "norm_label": "git_lfs_guide.md",
-      "id": "git_lfs_guide"
-    },
-    {
-      "label": "Git LFS Guide for Large Model Artifacts",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L1",
-      "community": 5,
-      "norm_label": "git lfs guide for large model artifacts",
-      "id": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts"
-    },
-    {
-      "label": "Why use Git LFS",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L5",
-      "community": 5,
-      "norm_label": "why use git lfs",
-      "id": "git_lfs_guide_why_use_git_lfs"
-    },
-    {
-      "label": "What was added",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L10",
-      "community": 5,
-      "norm_label": "what was added",
-      "id": "git_lfs_guide_what_was_added"
-    },
-    {
-      "label": "Setup steps",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L18",
-      "community": 5,
-      "norm_label": "setup steps",
-      "id": "git_lfs_guide_setup_steps"
-    },
-    {
-      "label": "How to add a new model file",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L58",
-      "community": 5,
-      "norm_label": "how to add a new model file",
-      "id": "git_lfs_guide_how_to_add_a_new_model_file"
-    },
-    {
-      "label": "If you already committed a large file",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L77",
-      "community": 5,
-      "norm_label": "if you already committed a large file",
-      "id": "git_lfs_guide_if_you_already_committed_a_large_file"
-    },
-    {
-      "label": "Cloning this repo in the future",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L95",
-      "community": 5,
-      "norm_label": "cloning this repo in the future",
-      "id": "git_lfs_guide_cloning_this_repo_in_the_future"
-    },
-    {
-      "label": "Best practice",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L106",
-      "community": 5,
-      "norm_label": "best practice",
-      "id": "git_lfs_guide_best_practice"
     },
     {
       "label": "W6_TaskPlan.md",
@@ -1001,6 +992,86 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide",
+      "target": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L106",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_best_practice"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L95",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_cloning_this_repo_in_the_future"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_how_to_add_a_new_model_file"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L77",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_if_you_already_committed_a_large_file"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_setup_steps"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_what_was_added"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "target": "git_lfs_guide_why_use_git_lfs"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "README.md",
       "source_location": "L1",
       "weight": 1.0,
@@ -1014,9 +1085,9 @@
       "source_file": "README.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_fuseaif_wk6_probabilistic_models",
-      "target": "readme_current_status",
-      "confidence_score": 1.0
+      "target": "readme_current_status"
     },
     {
       "relation": "contains",
@@ -1107,16 +1178,6 @@
       "confidence_score": 1.0,
       "source": "task_progress_week_6_task_progress",
       "target": "task_progress_notes"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L69",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_notes_69"
     },
     {
       "relation": "contains",
@@ -1317,86 +1378,6 @@
       "confidence_score": 1.0,
       "source": "gemini",
       "target": "gemini_graphify"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "git_lfs_guide",
-      "target": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L106",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
-      "target": "git_lfs_guide_best_practice"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L95",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
-      "target": "git_lfs_guide_cloning_this_repo_in_the_future"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L58",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
-      "target": "git_lfs_guide_how_to_add_a_new_model_file"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L77",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
-      "target": "git_lfs_guide_if_you_already_committed_a_large_file"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L18",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
-      "target": "git_lfs_guide_setup_steps"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L10",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
-      "target": "git_lfs_guide_what_was_added"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L5",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
-      "target": "git_lfs_guide_why_use_git_lfs"
     },
     {
       "relation": "contains",
@@ -1940,5 +1921,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "1f1f78a4cc1baed5ac1bb6a4e71a13891ae45516"
+  "built_at_commit": "b860da19d641ba2004f8fadfab8c432046b77c8b"
 }

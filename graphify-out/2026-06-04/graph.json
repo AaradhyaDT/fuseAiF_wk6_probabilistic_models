@@ -4,139 +4,220 @@
   "graph": {},
   "nodes": [
     {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme",
+      "community": 4,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "fuseAiF_wk6_probabilistic_models",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_fuseaif_wk6_probabilistic_models",
+      "community": 4,
+      "norm_label": "fuseaif_wk6_probabilistic_models"
+    },
+    {
+      "label": "Overview",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "id": "readme_overview",
+      "community": 4,
+      "norm_label": "overview"
+    },
+    {
+      "label": "Repository structure",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L14",
+      "id": "readme_repository_structure",
+      "community": 4,
+      "norm_label": "repository structure"
+    },
+    {
+      "label": "Setup",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L23",
+      "id": "readme_setup",
+      "community": 4,
+      "norm_label": "setup"
+    },
+    {
+      "label": "How to use this repo",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "id": "readme_how_to_use_this_repo",
+      "community": 4,
+      "norm_label": "how to use this repo"
+    },
+    {
+      "label": "Submission artifacts",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L41",
+      "id": "readme_submission_artifacts",
+      "community": 4,
+      "norm_label": "submission artifacts"
+    },
+    {
+      "label": "Current status",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L48",
+      "id": "readme_current_status",
+      "community": 4,
+      "norm_label": "current status"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L54",
+      "id": "readme_notes",
+      "community": 4,
+      "norm_label": "notes"
+    },
+    {
       "label": "TASK_PROGRESS.md",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L1",
-      "id": "task_progress",
       "community": 1,
-      "norm_label": "task_progress.md"
+      "norm_label": "task_progress.md",
+      "id": "task_progress"
     },
     {
       "label": "Week 6 Task Progress",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L1",
-      "id": "task_progress_week_6_task_progress",
       "community": 1,
-      "norm_label": "week 6 task progress"
+      "norm_label": "week 6 task progress",
+      "id": "task_progress_week_6_task_progress"
     },
     {
       "label": "Repo artifacts found",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L7",
-      "id": "task_progress_repo_artifacts_found",
       "community": 1,
-      "norm_label": "repo artifacts found"
+      "norm_label": "repo artifacts found",
+      "id": "task_progress_repo_artifacts_found"
     },
     {
       "label": "Repo maintenance",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L13",
-      "id": "task_progress_repo_maintenance",
       "community": 1,
-      "norm_label": "repo maintenance"
+      "norm_label": "repo maintenance",
+      "id": "task_progress_repo_maintenance"
     },
     {
       "label": "Part 1 \u2014 Estimation Trinity",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L20",
-      "id": "task_progress_part_1_estimation_trinity",
       "community": 1,
-      "norm_label": "part 1 \u2014 estimation trinity"
+      "norm_label": "part 1 \u2014 estimation trinity",
+      "id": "task_progress_part_1_estimation_trinity"
     },
     {
       "label": "Part 2 \u2014 Sequential Updating & Dirichlet-Multinomial",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L27",
-      "id": "task_progress_part_2_sequential_updating_dirichlet_multinomial",
       "community": 1,
-      "norm_label": "part 2 \u2014 sequential updating & dirichlet-multinomial"
+      "norm_label": "part 2 \u2014 sequential updating & dirichlet-multinomial",
+      "id": "task_progress_part_2_sequential_updating_dirichlet_multinomial"
     },
     {
       "label": "Part 3 \u2014 Multivariate Gaussians",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L34",
-      "id": "task_progress_part_3_multivariate_gaussians",
       "community": 1,
-      "norm_label": "part 3 \u2014 multivariate gaussians"
+      "norm_label": "part 3 \u2014 multivariate gaussians",
+      "id": "task_progress_part_3_multivariate_gaussians"
     },
     {
       "label": "Part 4 \u2014 Probabilistic Graphical Models",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L40",
-      "id": "task_progress_part_4_probabilistic_graphical_models",
       "community": 1,
-      "norm_label": "part 4 \u2014 probabilistic graphical models"
+      "norm_label": "part 4 \u2014 probabilistic graphical models",
+      "id": "task_progress_part_4_probabilistic_graphical_models"
     },
     {
       "label": "Part 5 \u2014 Gaussian Process Regression",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L46",
-      "id": "task_progress_part_5_gaussian_process_regression",
       "community": 1,
-      "norm_label": "part 5 \u2014 gaussian process regression"
+      "norm_label": "part 5 \u2014 gaussian process regression",
+      "id": "task_progress_part_5_gaussian_process_regression"
     },
     {
       "label": "Part 6 \u2014 MCMC Bayesian Logistic Regression",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L53",
-      "id": "task_progress_part_6_mcmc_bayesian_logistic_regression",
       "community": 1,
-      "norm_label": "part 6 \u2014 mcmc bayesian logistic regression"
+      "norm_label": "part 6 \u2014 mcmc bayesian logistic regression",
+      "id": "task_progress_part_6_mcmc_bayesian_logistic_regression"
     },
     {
       "label": "Submission artifacts",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L61",
-      "id": "task_progress_submission_artifacts",
       "community": 1,
-      "norm_label": "submission artifacts"
+      "norm_label": "submission artifacts",
+      "id": "task_progress_submission_artifacts"
     },
     {
       "label": "Notes",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L66",
-      "id": "task_progress_notes",
       "community": 1,
-      "norm_label": "notes"
+      "norm_label": "notes",
+      "id": "task_progress_notes"
     },
     {
       "label": "Notes",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L69",
-      "id": "task_progress_notes_69",
       "community": 1,
-      "norm_label": "notes"
+      "norm_label": "notes",
+      "id": "task_progress_notes_69"
     },
     {
       "label": "generate_w6_trace.py",
       "file_type": "code",
       "source_file": "generate_w6_trace.py",
       "source_location": "L1",
-      "id": "generate_w6_trace",
       "community": 11,
-      "norm_label": "generate_w6_trace.py"
+      "norm_label": "generate_w6_trace.py",
+      "id": "generate_w6_trace"
     },
     {
       "label": "main()",
       "file_type": "code",
       "source_file": "generate_w6_trace.py",
       "source_location": "L49",
-      "id": "generate_w6_trace_main",
       "community": 11,
-      "norm_label": "main()"
+      "norm_label": "main()",
+      "id": "generate_w6_trace_main"
     },
     {
       "label": "setup_git_lfs.ps1",
@@ -299,78 +380,6 @@
       "community": 5,
       "norm_label": "best practice",
       "id": "git_lfs_guide_best_practice"
-    },
-    {
-      "label": "README.md",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "community": 4,
-      "norm_label": "readme.md",
-      "id": "readme"
-    },
-    {
-      "label": "fuseAiF_wk6_probabilistic_models",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "community": 4,
-      "norm_label": "fuseaif_wk6_probabilistic_models",
-      "id": "readme_fuseaif_wk6_probabilistic_models"
-    },
-    {
-      "label": "Overview",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L3",
-      "community": 4,
-      "norm_label": "overview",
-      "id": "readme_overview"
-    },
-    {
-      "label": "Repository structure",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L13",
-      "community": 4,
-      "norm_label": "repository structure",
-      "id": "readme_repository_structure"
-    },
-    {
-      "label": "Setup",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L22",
-      "community": 4,
-      "norm_label": "setup",
-      "id": "readme_setup"
-    },
-    {
-      "label": "How to use this repo",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L34",
-      "community": 4,
-      "norm_label": "how to use this repo",
-      "id": "readme_how_to_use_this_repo"
-    },
-    {
-      "label": "Submission artifacts",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L40",
-      "community": 4,
-      "norm_label": "submission artifacts",
-      "id": "readme_submission_artifacts"
-    },
-    {
-      "label": "Notes",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L47",
-      "community": 4,
-      "norm_label": "notes",
-      "id": "readme_notes"
     },
     {
       "label": "W6_TaskPlan.md",
@@ -992,6 +1001,96 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme",
+      "target": "readme_fuseaif_wk6_probabilistic_models"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_current_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_how_to_use_this_repo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_notes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_overview"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_repository_structure"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_setup"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_submission_artifacts"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_overview",
+      "target": "w6_taskplan_md"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "TASK_PROGRESS.md",
       "source_location": "L1",
       "weight": 1.0,
@@ -1298,86 +1397,6 @@
       "confidence_score": 1.0,
       "source": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
       "target": "git_lfs_guide_why_use_git_lfs"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme",
-      "target": "readme_fuseaif_wk6_probabilistic_models"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L34",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_fuseaif_wk6_probabilistic_models",
-      "target": "readme_how_to_use_this_repo"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L47",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_fuseaif_wk6_probabilistic_models",
-      "target": "readme_notes"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L3",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_fuseaif_wk6_probabilistic_models",
-      "target": "readme_overview"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L13",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_fuseaif_wk6_probabilistic_models",
-      "target": "readme_repository_structure"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L22",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_fuseaif_wk6_probabilistic_models",
-      "target": "readme_setup"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "README.md",
-      "source_location": "L40",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "readme_fuseaif_wk6_probabilistic_models",
-      "target": "readme_submission_artifacts"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "readme_overview",
-      "target": "w6_taskplan_md"
     },
     {
       "relation": "contains",
@@ -1921,5 +1940,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "bf058f57187f5e34569f1c196371f9bda37e15d7"
+  "built_at_commit": "1f1f78a4cc1baed5ac1bb6a4e71a13891ae45516"
 }
