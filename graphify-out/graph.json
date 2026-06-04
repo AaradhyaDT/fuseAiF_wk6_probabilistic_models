@@ -1,0 +1,1521 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme",
+      "community": 1,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "fuseAiF_wk6_probabilistic_models",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_fuseaif_wk6_probabilistic_models",
+      "community": 1,
+      "norm_label": "fuseaif_wk6_probabilistic_models"
+    },
+    {
+      "label": "Overview",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "id": "readme_overview",
+      "community": 1,
+      "norm_label": "overview"
+    },
+    {
+      "label": "Repository structure",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "id": "readme_repository_structure",
+      "community": 1,
+      "norm_label": "repository structure"
+    },
+    {
+      "label": "Setup",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L22",
+      "id": "readme_setup",
+      "community": 1,
+      "norm_label": "setup"
+    },
+    {
+      "label": "How to use this repo",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L34",
+      "id": "readme_how_to_use_this_repo",
+      "community": 1,
+      "norm_label": "how to use this repo"
+    },
+    {
+      "label": "Submission artifacts",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L40",
+      "id": "readme_submission_artifacts",
+      "community": 1,
+      "norm_label": "submission artifacts"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L47",
+      "id": "readme_notes",
+      "community": 1,
+      "norm_label": "notes"
+    },
+    {
+      "label": "TASK_PROGRESS.md",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "id": "task_progress",
+      "community": 0,
+      "norm_label": "task_progress.md"
+    },
+    {
+      "label": "Week 6 Task Progress",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "id": "task_progress_week_6_task_progress",
+      "community": 0,
+      "norm_label": "week 6 task progress"
+    },
+    {
+      "label": "Repo artifacts found",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L7",
+      "id": "task_progress_repo_artifacts_found",
+      "community": 0,
+      "norm_label": "repo artifacts found"
+    },
+    {
+      "label": "Part 1 \u2014 Estimation Trinity",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "id": "task_progress_part_1_estimation_trinity",
+      "community": 0,
+      "norm_label": "part 1 \u2014 estimation trinity"
+    },
+    {
+      "label": "Part 2 \u2014 Sequential Updating & Dirichlet-Multinomial",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L20",
+      "id": "task_progress_part_2_sequential_updating_dirichlet_multinomial",
+      "community": 0,
+      "norm_label": "part 2 \u2014 sequential updating & dirichlet-multinomial"
+    },
+    {
+      "label": "Part 3 \u2014 Multivariate Gaussians",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L27",
+      "id": "task_progress_part_3_multivariate_gaussians",
+      "community": 0,
+      "norm_label": "part 3 \u2014 multivariate gaussians"
+    },
+    {
+      "label": "Part 4 \u2014 Probabilistic Graphical Models",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L33",
+      "id": "task_progress_part_4_probabilistic_graphical_models",
+      "community": 0,
+      "norm_label": "part 4 \u2014 probabilistic graphical models"
+    },
+    {
+      "label": "Part 5 \u2014 Gaussian Process Regression",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L39",
+      "id": "task_progress_part_5_gaussian_process_regression",
+      "community": 0,
+      "norm_label": "part 5 \u2014 gaussian process regression"
+    },
+    {
+      "label": "Part 6 \u2014 MCMC Bayesian Logistic Regression",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L46",
+      "id": "task_progress_part_6_mcmc_bayesian_logistic_regression",
+      "community": 0,
+      "norm_label": "part 6 \u2014 mcmc bayesian logistic regression"
+    },
+    {
+      "label": "Submission artifacts",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L54",
+      "id": "task_progress_submission_artifacts",
+      "community": 0,
+      "norm_label": "submission artifacts"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L59",
+      "id": "task_progress_notes",
+      "community": 0,
+      "norm_label": "notes"
+    },
+    {
+      "label": "graphify.md",
+      "file_type": "document",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": "L1",
+      "id": "rules_graphify",
+      "community": 13,
+      "norm_label": "graphify.md"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": "L6",
+      "id": "rules_graphify_graphify",
+      "community": 13,
+      "norm_label": "graphify"
+    },
+    {
+      "label": "graphify.md",
+      "file_type": "document",
+      "source_file": ".agents/workflows/graphify.md",
+      "source_location": "L1",
+      "id": "workflows_graphify",
+      "community": 15,
+      "norm_label": "graphify.md"
+    },
+    {
+      "label": "Workflow: graphify",
+      "file_type": "document",
+      "source_file": ".agents/workflows/graphify.md",
+      "source_location": "L6",
+      "id": "workflows_graphify_workflow_graphify",
+      "community": 15,
+      "norm_label": "workflow: graphify"
+    },
+    {
+      "label": "copilot-instructions.md",
+      "file_type": "document",
+      "source_file": ".github/copilot-instructions.md",
+      "source_location": "L1",
+      "id": "github_copilot_instructions",
+      "community": 12,
+      "norm_label": "copilot-instructions.md"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": ".github/copilot-instructions.md",
+      "source_location": "L1",
+      "id": "github_copilot_instructions_graphify",
+      "community": 12,
+      "norm_label": "graphify"
+    },
+    {
+      "label": "GEMINI.md",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "id": "gemini",
+      "community": 10,
+      "norm_label": "gemini.md"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "id": "gemini_graphify",
+      "community": 10,
+      "norm_label": "graphify"
+    },
+    {
+      "label": "W6_TaskPlan.md",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L1",
+      "id": "w6_taskplan",
+      "community": 3,
+      "norm_label": "w6_taskplan.md"
+    },
+    {
+      "label": "W6 \u2014 Probabilistic Models & Bayesian Inference",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L1",
+      "id": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "community": 3,
+      "norm_label": "w6 \u2014 probabilistic models & bayesian inference"
+    },
+    {
+      "label": "Master Task Plan \u00b7 Fusemachines AI Fellowship",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L2",
+      "id": "w6_taskplan_master_task_plan_fusemachines_ai_fellowship",
+      "community": 3,
+      "norm_label": "master task plan \u00b7 fusemachines ai fellowship"
+    },
+    {
+      "label": "QUICK REFERENCE",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L7",
+      "id": "w6_taskplan_quick_reference",
+      "community": 3,
+      "norm_label": "quick reference"
+    },
+    {
+      "label": "ENVIRONMENT SETUP",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L22",
+      "id": "w6_taskplan_environment_setup",
+      "community": 3,
+      "norm_label": "environment setup"
+    },
+    {
+      "label": "PART 1 \u00b7 THE ESTIMATION TRINITY \u2014 MLE, MAP, FULL BAYES",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L47",
+      "id": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "community": 5,
+      "norm_label": "part 1 \u00b7 the estimation trinity \u2014 mle, map, full bayes"
+    },
+    {
+      "label": "Q1 \u00b7 Extract experimental groups `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L53",
+      "id": "w6_taskplan_q1_extract_experimental_groups",
+      "community": 5,
+      "norm_label": "q1 \u00b7 extract experimental groups `[ ]`"
+    },
+    {
+      "label": "Q2a \u00b7 Compute MLE, MAP, pull table `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L64",
+      "id": "w6_taskplan_q2a_compute_mle_map_pull_table",
+      "community": 5,
+      "norm_label": "q2a \u00b7 compute mle, map, pull table `[ ]`"
+    },
+    {
+      "label": "Q2b \u00b7 Plot 3 posterior PDFs `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L79",
+      "id": "w6_taskplan_q2b_plot_3_posterior_pdfs",
+      "community": 5,
+      "norm_label": "q2b \u00b7 plot 3 posterior pdfs `[ ]`"
+    },
+    {
+      "label": "Q3 \u00b7 Monte Carlo P(\u03b8_A > \u03b8_B) `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L89",
+      "id": "w6_taskplan_q3_monte_carlo_p_\u03b8_a_\u03b8_b",
+      "community": 5,
+      "norm_label": "q3 \u00b7 monte carlo p(\u03b8_a > \u03b8_b) `[ ]`"
+    },
+    {
+      "label": "\u270d\ufe0f Reflect 1 `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L102",
+      "id": "w6_taskplan_reflect_1",
+      "community": 5,
+      "norm_label": "\u270d\ufe0f reflect 1 `[ ]`"
+    },
+    {
+      "label": "PART 2 \u00b7 SEQUENTIAL BAYESIAN UPDATING & DIRICHLET-MULTINOMIAL",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L109",
+      "id": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "community": 6,
+      "norm_label": "part 2 \u00b7 sequential bayesian updating & dirichlet-multinomial"
+    },
+    {
+      "label": "Q4 \u00b7 Implement `update_posterior()` `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L113",
+      "id": "w6_taskplan_q4_implement_update_posterior",
+      "community": 6,
+      "norm_label": "q4 \u00b7 implement `update_posterior()` `[ ]`"
+    },
+    {
+      "label": "Q5 \u00b7 Sequential update \u2014 posterior evolution plot `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L126",
+      "id": "w6_taskplan_q5_sequential_update_posterior_evolution_plot",
+      "community": 6,
+      "norm_label": "q5 \u00b7 sequential update \u2014 posterior evolution plot `[ ]`"
+    },
+    {
+      "label": "Q6 \u00b7 Decision boundary P(\u03b8 > 0.25) vs n `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L142",
+      "id": "w6_taskplan_q6_decision_boundary_p_\u03b8_0_25_vs_n",
+      "community": 6,
+      "norm_label": "q6 \u00b7 decision boundary p(\u03b8 > 0.25) vs n `[ ]`"
+    },
+    {
+      "label": "Q7 \u00b7 Dirichlet-Multinomial `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L157",
+      "id": "w6_taskplan_q7_dirichlet_multinomial",
+      "community": 6,
+      "norm_label": "q7 \u00b7 dirichlet-multinomial `[ ]`"
+    },
+    {
+      "label": "\u270d\ufe0f Reflect 2 `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L171",
+      "id": "w6_taskplan_reflect_2",
+      "community": 6,
+      "norm_label": "\u270d\ufe0f reflect 2 `[ ]`"
+    },
+    {
+      "label": "PART 3 \u00b7 MULTIVARIATE GAUSSIANS",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L178",
+      "id": "w6_taskplan_part_3_multivariate_gaussians",
+      "community": 7,
+      "norm_label": "part 3 \u00b7 multivariate gaussians"
+    },
+    {
+      "label": "Q8a \u00b7 Fit 2D Gaussian `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L182",
+      "id": "w6_taskplan_q8a_fit_2d_gaussian",
+      "community": 7,
+      "norm_label": "q8a \u00b7 fit 2d gaussian `[ ]`"
+    },
+    {
+      "label": "Q8b \u00b7 Scatter + 1\u03c3/2\u03c3/3\u03c3 confidence ellipses `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L194",
+      "id": "w6_taskplan_q8b_scatter_1\u03c3_2\u03c3_3\u03c3_confidence_ellipses",
+      "community": 7,
+      "norm_label": "q8b \u00b7 scatter + 1\u03c3/2\u03c3/3\u03c3 confidence ellipses `[ ]`"
+    },
+    {
+      "label": "Q9 \u00b7 Conditional Gaussian P(MonthlyCharges | tenure=24) `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L199",
+      "id": "w6_taskplan_q9_conditional_gaussian_p_monthlycharges_tenure_24",
+      "community": 7,
+      "norm_label": "q9 \u00b7 conditional gaussian p(monthlycharges | tenure=24) `[ ]`"
+    },
+    {
+      "label": "Q10 \u00b7 3D Covariance + Condition Number + Marginalisation `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L211",
+      "id": "w6_taskplan_q10_3d_covariance_condition_number_marginalisation",
+      "community": 7,
+      "norm_label": "q10 \u00b7 3d covariance + condition number + marginalisation `[ ]`"
+    },
+    {
+      "label": "\u270d\ufe0f Reflect 3 `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L224",
+      "id": "w6_taskplan_reflect_3",
+      "community": 7,
+      "norm_label": "\u270d\ufe0f reflect 3 `[ ]`"
+    },
+    {
+      "label": "PART 4 \u00b7 PROBABILISTIC GRAPHICAL MODELS",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L231",
+      "id": "w6_taskplan_part_4_probabilistic_graphical_models",
+      "community": 9,
+      "norm_label": "part 4 \u00b7 probabilistic graphical models"
+    },
+    {
+      "label": "Q11 \u00b7 Build and fit Bayesian Network `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L235",
+      "id": "w6_taskplan_q11_build_and_fit_bayesian_network",
+      "community": 9,
+      "norm_label": "q11 \u00b7 build and fit bayesian network `[ ]`"
+    },
+    {
+      "label": "Q12 \u00b7 Structure sensitivity: two competing DAGs `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L273",
+      "id": "w6_taskplan_q12_structure_sensitivity_two_competing_dags",
+      "community": 9,
+      "norm_label": "q12 \u00b7 structure sensitivity: two competing dags `[ ]`"
+    },
+    {
+      "label": "Q13 \u00b7 Markov Random Field `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L300",
+      "id": "w6_taskplan_q13_markov_random_field",
+      "community": 9,
+      "norm_label": "q13 \u00b7 markov random field `[ ]`"
+    },
+    {
+      "label": "\u270d\ufe0f Reflect 4 `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L324",
+      "id": "w6_taskplan_reflect_4",
+      "community": 9,
+      "norm_label": "\u270d\ufe0f reflect 4 `[ ]`"
+    },
+    {
+      "label": "PART 5 \u00b7 GAUSSIAN PROCESS REGRESSION \u2014 MAUNA LOA CO\u2082",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L331",
+      "id": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
+      "community": 8,
+      "norm_label": "part 5 \u00b7 gaussian process regression \u2014 mauna loa co2"
+    },
+    {
+      "label": "Q14 \u00b7 Load Mauna Loa `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L335",
+      "id": "w6_taskplan_q14_load_mauna_loa",
+      "community": 8,
+      "norm_label": "q14 \u00b7 load mauna loa `[ ]`"
+    },
+    {
+      "label": "Q15 \u00b7 Kernel design rationale (fill table BEFORE coding) `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L347",
+      "id": "w6_taskplan_q15_kernel_design_rationale_fill_table_before_coding",
+      "community": 8,
+      "norm_label": "q15 \u00b7 kernel design rationale (fill table before coding) `[ ]`"
+    },
+    {
+      "label": "Q16 \u00b7 Gap experiment `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L374",
+      "id": "w6_taskplan_q16_gap_experiment",
+      "community": 8,
+      "norm_label": "q16 \u00b7 gap experiment `[ ]`"
+    },
+    {
+      "label": "Q17 \u00b7 Extrapolation and confidence boundary `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L391",
+      "id": "w6_taskplan_q17_extrapolation_and_confidence_boundary",
+      "community": 8,
+      "norm_label": "q17 \u00b7 extrapolation and confidence boundary `[ ]`"
+    },
+    {
+      "label": "\u270d\ufe0f Reflect 5 `[ ]` (exactly two sentences)",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L412",
+      "id": "w6_taskplan_reflect_5_exactly_two_sentences",
+      "community": 8,
+      "norm_label": "\u270d\ufe0f reflect 5 `[ ]` (exactly two sentences)"
+    },
+    {
+      "label": "PART 6 \u00b7 MCMC \u2014 BAYESIAN LOGISTIC REGRESSION",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L417",
+      "id": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "community": 4,
+      "norm_label": "part 6 \u00b7 mcmc \u2014 bayesian logistic regression"
+    },
+    {
+      "label": "Q18 \u00b7 Feature scaling rationale + model spec `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L421",
+      "id": "w6_taskplan_q18_feature_scaling_rationale_model_spec",
+      "community": 4,
+      "norm_label": "q18 \u00b7 feature scaling rationale + model spec `[ ]`"
+    },
+    {
+      "label": "Q19 \u00b7 Convergence diagnostics `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L442",
+      "id": "w6_taskplan_q19_convergence_diagnostics",
+      "community": 4,
+      "norm_label": "q19 \u00b7 convergence diagnostics `[ ]`"
+    },
+    {
+      "label": "Q20 \u00b7 Prior sensitivity check `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L461",
+      "id": "w6_taskplan_q20_prior_sensitivity_check",
+      "community": 4,
+      "norm_label": "q20 \u00b7 prior sensitivity check `[ ]`"
+    },
+    {
+      "label": "Q21 \u00b7 Posterior analysis + frequentist comparison `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L481",
+      "id": "w6_taskplan_q21_posterior_analysis_frequentist_comparison",
+      "community": 4,
+      "norm_label": "q21 \u00b7 posterior analysis + frequentist comparison `[ ]`"
+    },
+    {
+      "label": "Q22 \u00b7 Save MCMC trace `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L500",
+      "id": "w6_taskplan_q22_save_mcmc_trace",
+      "community": 4,
+      "norm_label": "q22 \u00b7 save mcmc trace `[ ]`"
+    },
+    {
+      "label": "\u270d\ufe0f Reflect 6 `[ ]`",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L511",
+      "id": "w6_taskplan_reflect_6",
+      "community": 4,
+      "norm_label": "\u270d\ufe0f reflect 6 `[ ]`"
+    },
+    {
+      "label": "SUBMISSION CHECKLIST",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L518",
+      "id": "w6_taskplan_submission_checklist",
+      "community": 2,
+      "norm_label": "submission checklist"
+    },
+    {
+      "label": "Part 1 (Estimation Trinity)",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L520",
+      "id": "w6_taskplan_part_1_estimation_trinity",
+      "community": 2,
+      "norm_label": "part 1 (estimation trinity)"
+    },
+    {
+      "label": "Part 2 (Sequential Updating)",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L526",
+      "id": "w6_taskplan_part_2_sequential_updating",
+      "community": 2,
+      "norm_label": "part 2 (sequential updating)"
+    },
+    {
+      "label": "Part 3 (Multivariate Gaussians)",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L533",
+      "id": "w6_taskplan_part_3_multivariate_gaussians_533",
+      "community": 2,
+      "norm_label": "part 3 (multivariate gaussians)"
+    },
+    {
+      "label": "Part 4 (PGMs)",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L539",
+      "id": "w6_taskplan_part_4_pgms",
+      "community": 2,
+      "norm_label": "part 4 (pgms)"
+    },
+    {
+      "label": "Part 5 (GP Regression)",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L545",
+      "id": "w6_taskplan_part_5_gp_regression",
+      "community": 2,
+      "norm_label": "part 5 (gp regression)"
+    },
+    {
+      "label": "Part 6 (MCMC)",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L552",
+      "id": "w6_taskplan_part_6_mcmc",
+      "community": 2,
+      "norm_label": "part 6 (mcmc)"
+    },
+    {
+      "label": "Submission Artefacts",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L559",
+      "id": "w6_taskplan_submission_artefacts",
+      "community": 2,
+      "norm_label": "submission artefacts"
+    },
+    {
+      "label": "KNOWN GOTCHAS",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L566",
+      "id": "w6_taskplan_known_gotchas",
+      "community": 3,
+      "norm_label": "known gotchas"
+    },
+    {
+      "label": "REFERENCE FORMULAS",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L581",
+      "id": "w6_taskplan_reference_formulas",
+      "community": 3,
+      "norm_label": "reference formulas"
+    },
+    {
+      "label": "W6_TaskPlan.md",
+      "file_type": "document",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "w6_taskplan_w6_taskplan",
+      "community": 14,
+      "norm_label": "w6_taskplan.md"
+    },
+    {
+      "label": "W6_Probabilistic_Models_Resource_Guide.pdf",
+      "file_type": "document",
+      "source_file": "W6_Probabilistic_Models_Resource_Guide.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "w6_probabilistic_models_resource_guide_pdf",
+      "community": 17,
+      "norm_label": "w6_probabilistic_models_resource_guide.pdf"
+    },
+    {
+      "label": "requirements.txt",
+      "file_type": "document",
+      "source_file": "requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "requirements_txt",
+      "community": 16,
+      "norm_label": "requirements.txt"
+    },
+    {
+      "label": "telco_bayes_lr_v1.pkl",
+      "file_type": "code",
+      "source_file": "telco_bayes_lr_v1.pkl",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "telco_bayes_lr_v1_pkl",
+      "community": 14,
+      "norm_label": "telco_bayes_lr_v1.pkl"
+    },
+    {
+      "label": "GEMINI.md",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "gemini_md",
+      "community": 11,
+      "norm_label": "gemini.md"
+    },
+    {
+      "label": "graphify",
+      "file_type": "concept",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "graphify_concept",
+      "community": 11,
+      "norm_label": "graphify"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme",
+      "target": "readme_fuseaif_wk6_probabilistic_models",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_how_to_use_this_repo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_repository_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "readme_fuseaif_wk6_probabilistic_models",
+      "target": "readme_submission_artifacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "task_progress",
+      "target": "task_progress_week_6_task_progress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_1_estimation_trinity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_2_sequential_updating_dirichlet_multinomial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_3_multivariate_gaussians",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_4_probabilistic_graphical_models",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_5_gaussian_process_regression",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_6_mcmc_bayesian_logistic_regression",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_repo_artifacts_found",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_submission_artifacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "rules_graphify",
+      "target": "rules_graphify_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/workflows/graphify.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "workflows_graphify",
+      "target": "workflows_graphify_workflow_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".github/copilot-instructions.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "github_copilot_instructions",
+      "target": "github_copilot_instructions_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "gemini",
+      "target": "gemini_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "w6_taskplan",
+      "target": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_environment_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L566",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_known_gotchas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_master_task_plan_fusemachines_ai_fellowship",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_part_3_multivariate_gaussians",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L231",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_part_4_probabilistic_graphical_models",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L331",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L417",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_quick_reference",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L581",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_reference_formulas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L518",
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "target": "w6_taskplan_submission_checklist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "target": "w6_taskplan_q1_extract_experimental_groups",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "target": "w6_taskplan_q2a_compute_mle_map_pull_table",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "target": "w6_taskplan_q2b_plot_3_posterior_pdfs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "target": "w6_taskplan_q3_monte_carlo_p_\u03b8_a_\u03b8_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "target": "w6_taskplan_reflect_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "target": "w6_taskplan_q4_implement_update_posterior",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "target": "w6_taskplan_q5_sequential_update_posterior_evolution_plot",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "target": "w6_taskplan_q6_decision_boundary_p_\u03b8_0_25_vs_n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L157",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "target": "w6_taskplan_q7_dirichlet_multinomial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L171",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "target": "w6_taskplan_reflect_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_3_multivariate_gaussians",
+      "target": "w6_taskplan_q10_3d_covariance_condition_number_marginalisation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_3_multivariate_gaussians",
+      "target": "w6_taskplan_q8a_fit_2d_gaussian",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L194",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_3_multivariate_gaussians",
+      "target": "w6_taskplan_q8b_scatter_1\u03c3_2\u03c3_3\u03c3_confidence_ellipses",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L199",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_3_multivariate_gaussians",
+      "target": "w6_taskplan_q9_conditional_gaussian_p_monthlycharges_tenure_24",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L224",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_3_multivariate_gaussians",
+      "target": "w6_taskplan_reflect_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L235",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_4_probabilistic_graphical_models",
+      "target": "w6_taskplan_q11_build_and_fit_bayesian_network",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L273",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_4_probabilistic_graphical_models",
+      "target": "w6_taskplan_q12_structure_sensitivity_two_competing_dags",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L300",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_4_probabilistic_graphical_models",
+      "target": "w6_taskplan_q13_markov_random_field",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L324",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_4_probabilistic_graphical_models",
+      "target": "w6_taskplan_reflect_4",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L335",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
+      "target": "w6_taskplan_q14_load_mauna_loa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L347",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
+      "target": "w6_taskplan_q15_kernel_design_rationale_fill_table_before_coding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L374",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
+      "target": "w6_taskplan_q16_gap_experiment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L391",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
+      "target": "w6_taskplan_q17_extrapolation_and_confidence_boundary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L412",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
+      "target": "w6_taskplan_reflect_5_exactly_two_sentences",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L421",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "target": "w6_taskplan_q18_feature_scaling_rationale_model_spec",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L442",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "target": "w6_taskplan_q19_convergence_diagnostics",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L461",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "target": "w6_taskplan_q20_prior_sensitivity_check",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L481",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "target": "w6_taskplan_q21_posterior_analysis_frequentist_comparison",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L500",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "target": "w6_taskplan_q22_save_mcmc_trace",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L511",
+      "weight": 1.0,
+      "source": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "target": "w6_taskplan_reflect_6",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L520",
+      "weight": 1.0,
+      "source": "w6_taskplan_submission_checklist",
+      "target": "w6_taskplan_part_1_estimation_trinity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L526",
+      "weight": 1.0,
+      "source": "w6_taskplan_submission_checklist",
+      "target": "w6_taskplan_part_2_sequential_updating",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L533",
+      "weight": 1.0,
+      "source": "w6_taskplan_submission_checklist",
+      "target": "w6_taskplan_part_3_multivariate_gaussians_533",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L539",
+      "weight": 1.0,
+      "source": "w6_taskplan_submission_checklist",
+      "target": "w6_taskplan_part_4_pgms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L545",
+      "weight": 1.0,
+      "source": "w6_taskplan_submission_checklist",
+      "target": "w6_taskplan_part_5_gp_regression",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L552",
+      "weight": 1.0,
+      "source": "w6_taskplan_submission_checklist",
+      "target": "w6_taskplan_part_6_mcmc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "W6_TaskPlan.md",
+      "source_location": "L559",
+      "weight": 1.0,
+      "source": "w6_taskplan_submission_checklist",
+      "target": "w6_taskplan_submission_artefacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "W6_TaskPlan.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "w6_taskplan_w6_taskplan",
+      "target": "telco_bayes_lr_v1_pkl"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GEMINI.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "gemini_md",
+      "target": "graphify_concept"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "502864d7048305aac849c0af75e3675e25ea0324"
+}

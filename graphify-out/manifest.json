@@ -1,0 +1,47 @@
+{
+  ".agents/rules/graphify.md": {
+    "mtime": 1780541090.4712746,
+    "ast_hash": "a0e4d192b9e2e17256124dbfc8e24e6a",
+    "semantic_hash": ""
+  },
+  ".agents/workflows/graphify.md": {
+    "mtime": 1780541090.473784,
+    "ast_hash": "84de69efd46ab0b8430393bd4188f8f2",
+    "semantic_hash": ""
+  },
+  ".github/copilot-instructions.md": {
+    "mtime": 1780541063.0754995,
+    "ast_hash": "2b23503628bf2ec71d067a85ca8948ab",
+    "semantic_hash": ""
+  },
+  "GEMINI.md": {
+    "mtime": 1780541106.357046,
+    "ast_hash": "8a6643a420fdad6bfb583523bc6cef16",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1780543730.4009686,
+    "ast_hash": "156cc6a62232a5d9b933be28ceadb536",
+    "semantic_hash": ""
+  },
+  "TASK_PROGRESS.md": {
+    "mtime": 1780543644.6381602,
+    "ast_hash": "8bf54957f8d18704a5c4a26096f44df0",
+    "semantic_hash": ""
+  },
+  "W6_TaskPlan.md": {
+    "mtime": 1780540537.119125,
+    "ast_hash": "27f54880794ec87b0392cabf101744c7",
+    "semantic_hash": ""
+  },
+  "requirements.txt": {
+    "mtime": 1780540537.120127,
+    "ast_hash": "34f2ad60cd4825b245834d598c078924",
+    "semantic_hash": ""
+  },
+  "W6_Probabilistic_Models_Resource_Guide.pdf": {
+    "mtime": 1780540537.119125,
+    "ast_hash": "891c4cbdc79040cea68f677d4d784ddb",
+    "semantic_hash": ""
+  }
+}
