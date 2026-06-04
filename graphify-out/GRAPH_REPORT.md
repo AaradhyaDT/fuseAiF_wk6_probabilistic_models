@@ -1,16 +1,16 @@
 # Graph Report - WK6  (2026-06-04)
 
 ## Corpus Check
-- 9 files · ~4,884 words
+- 9 files · ~4,937 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 91 nodes · 79 edges · 19 communities (15 shown, 4 thin omitted)
+- 92 nodes · 80 edges · 19 communities (15 shown, 4 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `c8e17e89`
+- Built from commit: `a4f248d6`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -33,7 +33,7 @@
 
 ## God Nodes (most connected - your core abstractions)
 1. `W6 — Probabilistic Models & Bayesian Inference` - 13 edges
-2. `Week 6 Task Progress` - 10 edges
+2. `Week 6 Task Progress` - 11 edges
 3. `Git LFS Guide for Large Model Artifacts` - 8 edges
 4. `SUBMISSION CHECKLIST` - 8 edges
 5. `fuseAiF_wk6_probabilistic_models` - 7 edges
@@ -52,8 +52,8 @@
 ## Communities (19 total, 4 thin omitted)
 
 ### Community 0 - "Community 0"
-Cohesion: 0.18
-Nodes (10): Notes, Part 1 — Estimation Trinity, Part 2 — Sequential Updating & Dirichlet-Multinomial, Part 3 — Multivariate Gaussians, Part 4 — Probabilistic Graphical Models, Part 5 — Gaussian Process Regression, Part 6 — MCMC Bayesian Logistic Regression, Repo artifacts found (+2 more)
+Cohesion: 0.17
+Nodes (11): Notes, Part 1 — Estimation Trinity, Part 2 — Sequential Updating & Dirichlet-Multinomial, Part 3 — Multivariate Gaussians, Part 4 — Probabilistic Graphical Models, Part 5 — Gaussian Process Regression, Part 6 — MCMC Bayesian Logistic Regression, Repo artifacts found (+3 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.25
@@ -96,7 +96,7 @@ Cohesion: 0.22
 Nodes (8): Best practice, Cloning this repo in the future, Git LFS Guide for Large Model Artifacts, How to add a new model file, If you already committed a large file, Setup steps, What was added, Why use Git LFS
 
 ## Knowledge Gaps
-- **68 isolated node(s):** `Why use Git LFS`, `What was added`, `Setup steps`, `How to add a new model file`, `If you already committed a large file` (+63 more)
+- **69 isolated node(s):** `Repo artifacts found`, `Repo maintenance`, `Part 1 — Estimation Trinity`, `Part 2 — Sequential Updating & Dirichlet-Multinomial`, `Part 3 — Multivariate Gaussians` (+64 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **4 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -104,10 +104,10 @@ Nodes (8): Best practice, Cloning this repo in the future, Git LFS Guide for Lar
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `W6 — Probabilistic Models & Bayesian Inference` connect `Community 3` to `Community 2`, `Community 4`, `Community 5`, `Community 6`, `Community 7`, `Community 8`, `Community 9`?**
-  _High betweenness centrality (0.276) - this node is a cross-community bridge._
+  _High betweenness centrality (0.270) - this node is a cross-community bridge._
 - **Why does `SUBMISSION CHECKLIST` connect `Community 2` to `Community 3`?**
-  _High betweenness centrality (0.080) - this node is a cross-community bridge._
+  _High betweenness centrality (0.079) - this node is a cross-community bridge._
 - **Why does `PART 6 · MCMC — BAYESIAN LOGISTIC REGRESSION` connect `Community 4` to `Community 3`?**
-  _High betweenness centrality (0.070) - this node is a cross-community bridge._
-- **What connects `Why use Git LFS`, `What was added`, `Setup steps` to the rest of the system?**
-  _68 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _High betweenness centrality (0.068) - this node is a cross-community bridge._
+- **What connects `Repo artifacts found`, `Repo maintenance`, `Part 1 — Estimation Trinity` to the rest of the system?**
+  _69 weakly-connected nodes found - possible documentation gaps or missing edges._

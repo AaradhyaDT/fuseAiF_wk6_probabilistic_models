@@ -4,13 +4,121 @@
   "graph": {},
   "nodes": [
     {
+      "label": "TASK_PROGRESS.md",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "id": "task_progress",
+      "community": 0,
+      "norm_label": "task_progress.md"
+    },
+    {
+      "label": "Week 6 Task Progress",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "id": "task_progress_week_6_task_progress",
+      "community": 0,
+      "norm_label": "week 6 task progress"
+    },
+    {
+      "label": "Repo artifacts found",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L7",
+      "id": "task_progress_repo_artifacts_found",
+      "community": 0,
+      "norm_label": "repo artifacts found"
+    },
+    {
+      "label": "Repo maintenance",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "id": "task_progress_repo_maintenance",
+      "community": 0,
+      "norm_label": "repo maintenance"
+    },
+    {
+      "label": "Part 1 \u2014 Estimation Trinity",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L20",
+      "id": "task_progress_part_1_estimation_trinity",
+      "community": 0,
+      "norm_label": "part 1 \u2014 estimation trinity"
+    },
+    {
+      "label": "Part 2 \u2014 Sequential Updating & Dirichlet-Multinomial",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L27",
+      "id": "task_progress_part_2_sequential_updating_dirichlet_multinomial",
+      "community": 0,
+      "norm_label": "part 2 \u2014 sequential updating & dirichlet-multinomial"
+    },
+    {
+      "label": "Part 3 \u2014 Multivariate Gaussians",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L34",
+      "id": "task_progress_part_3_multivariate_gaussians",
+      "community": 0,
+      "norm_label": "part 3 \u2014 multivariate gaussians"
+    },
+    {
+      "label": "Part 4 \u2014 Probabilistic Graphical Models",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L40",
+      "id": "task_progress_part_4_probabilistic_graphical_models",
+      "community": 0,
+      "norm_label": "part 4 \u2014 probabilistic graphical models"
+    },
+    {
+      "label": "Part 5 \u2014 Gaussian Process Regression",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L46",
+      "id": "task_progress_part_5_gaussian_process_regression",
+      "community": 0,
+      "norm_label": "part 5 \u2014 gaussian process regression"
+    },
+    {
+      "label": "Part 6 \u2014 MCMC Bayesian Logistic Regression",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L53",
+      "id": "task_progress_part_6_mcmc_bayesian_logistic_regression",
+      "community": 0,
+      "norm_label": "part 6 \u2014 mcmc bayesian logistic regression"
+    },
+    {
+      "label": "Submission artifacts",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L61",
+      "id": "task_progress_submission_artifacts",
+      "community": 0,
+      "norm_label": "submission artifacts"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L66",
+      "id": "task_progress_notes",
+      "community": 0,
+      "norm_label": "notes"
+    },
+    {
       "label": "setup_git_lfs.ps1",
       "file_type": "code",
       "source_file": "setup_git_lfs.ps1",
       "source_location": "L1",
-      "id": "setup_git_lfs",
       "community": 18,
-      "norm_label": "setup_git_lfs.ps1"
+      "norm_label": "setup_git_lfs.ps1",
+      "id": "setup_git_lfs"
     },
     {
       "label": "GIT_LFS_GUIDE.md",
@@ -236,105 +344,6 @@
       "community": 1,
       "norm_label": "notes",
       "id": "readme_notes"
-    },
-    {
-      "label": "TASK_PROGRESS.md",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L1",
-      "community": 0,
-      "norm_label": "task_progress.md",
-      "id": "task_progress"
-    },
-    {
-      "label": "Week 6 Task Progress",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L1",
-      "community": 0,
-      "norm_label": "week 6 task progress",
-      "id": "task_progress_week_6_task_progress"
-    },
-    {
-      "label": "Repo artifacts found",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L7",
-      "community": 0,
-      "norm_label": "repo artifacts found",
-      "id": "task_progress_repo_artifacts_found"
-    },
-    {
-      "label": "Part 1 \u2014 Estimation Trinity",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L13",
-      "community": 0,
-      "norm_label": "part 1 \u2014 estimation trinity",
-      "id": "task_progress_part_1_estimation_trinity"
-    },
-    {
-      "label": "Part 2 \u2014 Sequential Updating & Dirichlet-Multinomial",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L20",
-      "community": 0,
-      "norm_label": "part 2 \u2014 sequential updating & dirichlet-multinomial",
-      "id": "task_progress_part_2_sequential_updating_dirichlet_multinomial"
-    },
-    {
-      "label": "Part 3 \u2014 Multivariate Gaussians",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L27",
-      "community": 0,
-      "norm_label": "part 3 \u2014 multivariate gaussians",
-      "id": "task_progress_part_3_multivariate_gaussians"
-    },
-    {
-      "label": "Part 4 \u2014 Probabilistic Graphical Models",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L33",
-      "community": 0,
-      "norm_label": "part 4 \u2014 probabilistic graphical models",
-      "id": "task_progress_part_4_probabilistic_graphical_models"
-    },
-    {
-      "label": "Part 5 \u2014 Gaussian Process Regression",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L39",
-      "community": 0,
-      "norm_label": "part 5 \u2014 gaussian process regression",
-      "id": "task_progress_part_5_gaussian_process_regression"
-    },
-    {
-      "label": "Part 6 \u2014 MCMC Bayesian Logistic Regression",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L46",
-      "community": 0,
-      "norm_label": "part 6 \u2014 mcmc bayesian logistic regression",
-      "id": "task_progress_part_6_mcmc_bayesian_logistic_regression"
-    },
-    {
-      "label": "Submission artifacts",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L54",
-      "community": 0,
-      "norm_label": "submission artifacts",
-      "id": "task_progress_submission_artifacts"
-    },
-    {
-      "label": "Notes",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L59",
-      "community": 0,
-      "norm_label": "notes",
-      "id": "task_progress_notes"
     },
     {
       "label": "W6_TaskPlan.md",
@@ -839,6 +848,116 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress",
+      "target": "task_progress_week_6_task_progress"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_notes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_1_estimation_trinity"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_2_sequential_updating_dirichlet_multinomial"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_3_multivariate_gaussians"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_4_probabilistic_graphical_models"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_5_gaussian_process_regression"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_6_mcmc_bayesian_logistic_regression"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_repo_artifacts_found"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_repo_maintenance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_submission_artifacts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "GIT_LFS_GUIDE.md",
       "source_location": "L1",
       "weight": 1.0,
@@ -1025,106 +1144,6 @@
       "confidence_score": 1.0,
       "source": "readme_fuseaif_wk6_probabilistic_models",
       "target": "readme_submission_artifacts"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress",
-      "target": "task_progress_week_6_task_progress"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L59",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_notes"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L13",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_1_estimation_trinity"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L20",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_2_sequential_updating_dirichlet_multinomial"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L27",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_3_multivariate_gaussians"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L33",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_4_probabilistic_graphical_models"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L39",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_5_gaussian_process_regression"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L46",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_6_mcmc_bayesian_logistic_regression"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L7",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_repo_artifacts_found"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L54",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_submission_artifacts"
     },
     {
       "relation": "contains",
@@ -1628,5 +1647,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "c8e17e891b8bf2253618960efbe98f293f669f1a"
+  "built_at_commit": "a4f248d6ef8ca032950e987f8fc98ac6428ce564"
 }
