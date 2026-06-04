@@ -220,3 +220,6 @@ __marimo__/
 # Graphify output cache
 graphify-out/cache/
 graphify-out/.graphify_*
+# Ignore large model artifact
+telco_bayes_lr_v1.pkl
+
