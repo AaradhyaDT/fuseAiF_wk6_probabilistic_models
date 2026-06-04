@@ -20,12 +20,14 @@ Large model artifacts such as `*.pkl`, `*.h5`, `*.pt`, and `*.onnx` should be st
 1. Install Git LFS:
 
    - macOS / Linux:
+
      ```bash
      brew install git-lfs
      git lfs install
      ```
 
    - Windows:
+
      ```powershell
      winget install --id Git.GitLFS
      git lfs install

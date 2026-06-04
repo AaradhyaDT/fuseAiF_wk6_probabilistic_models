@@ -5,6 +5,7 @@
 This repository contains the Week 6 Fusemachines AI Fellowship assignment on probabilistic models and Bayesian inference.
 
 The primary deliverables are:
+
 - `W6_Probabilistic_Models_Assignment.ipynb` — Jupyter notebook for the assignment work
 - `W6_TaskPlan.md` — master task plan with questions, checks, and guidance
 - `TASK_PROGRESS.md` — task progress tracker for the week
@@ -29,8 +30,8 @@ The primary deliverables are:
 pip install -r requirements.txt
 ```
 
-3. Open `W6_Probabilistic_Models_Assignment.ipynb` in Jupyter or VS Code.
-4. Run the notebook sequentially, following the task plan in `W6_TaskPlan.md`.
+1. Open `W6_Probabilistic_Models_Assignment.ipynb` in Jupyter or VS Code.
+2. Run the notebook sequentially, following the task plan in `W6_TaskPlan.md`.
 
 ## How to use this repo
 
