@@ -46,19 +46,24 @@ X_te_scaled[:, :2] = scaler_mc.transform(X_te_mc[:, :2])
 
 n_features = X_tr_scaled.shape[1]
 
-with pm.Model() as bayes_lr:
-    intercept = pm.Normal('intercept', mu=0, sigma=5)
-    beta = pm.Normal('beta', mu=0, sigma=2, shape=n_features)
-    mu = pm.Deterministic('mu', pm.math.sigmoid(
-        intercept + pm.math.dot(X_tr_scaled, beta)
-    ))
-    y_obs = pm.Bernoulli('y_obs', p=mu, observed=y_tr_mc)
+def main():
+    with pm.Model() as bayes_lr:
+        intercept = pm.Normal('intercept', mu=0, sigma=5)
+        beta = pm.Normal('beta', mu=0, sigma=2, shape=n_features)
+        mu = pm.Deterministic('mu', pm.math.sigmoid(
+            intercept + pm.math.dot(X_tr_scaled, beta)
+        ))
+        y_obs = pm.Bernoulli('y_obs', p=mu, observed=y_tr_mc)
 
-    idata = pm.sample(draws=2000, tune=1000, chains=4,
-                      target_accept=0.90, random_seed=42,
-                      progressbar=True)
+        idata = pm.sample(draws=2000, tune=1000, chains=4,
+                          target_accept=0.90, random_seed=42,
+                          progressbar=True)
 
-save_path = 'telco_bayes_lr_v1.pkl'
-with open(save_path, 'wb') as f:
-    pickle.dump(idata, f)
-print(f'Saved MCMC trace to {save_path}')
+    save_path = 'telco_bayes_lr_v1.pkl'
+    with open(save_path, 'wb') as f:
+        pickle.dump(idata, f)
+    print(f'Saved MCMC trace to {save_path}')
+
+
+if __name__ == '__main__':
+    main()

@@ -2,12 +2,12 @@
   ".agents/rules/graphify.md": {
     "mtime": 1780541090.4712746,
     "ast_hash": "a0e4d192b9e2e17256124dbfc8e24e6a",
-    "semantic_hash": ""
+    "semantic_hash": "a0e4d192b9e2e17256124dbfc8e24e6a"
   },
   ".agents/workflows/graphify.md": {
     "mtime": 1780541090.473784,
     "ast_hash": "84de69efd46ab0b8430393bd4188f8f2",
-    "semantic_hash": ""
+    "semantic_hash": "84de69efd46ab0b8430393bd4188f8f2"
   },
   ".github/copilot-instructions.md": {
     "mtime": 1780541063.0754995,
@@ -17,41 +17,46 @@
   "GEMINI.md": {
     "mtime": 1780541106.357046,
     "ast_hash": "8a6643a420fdad6bfb583523bc6cef16",
-    "semantic_hash": ""
+    "semantic_hash": "8a6643a420fdad6bfb583523bc6cef16"
   },
   "README.md": {
     "mtime": 1780543730.4009686,
     "ast_hash": "156cc6a62232a5d9b933be28ceadb536",
-    "semantic_hash": ""
+    "semantic_hash": "156cc6a62232a5d9b933be28ceadb536"
   },
   "TASK_PROGRESS.md": {
-    "mtime": 1780546596.18956,
-    "ast_hash": "9947f3129d2124a5fed61d7a0d111c4b",
+    "mtime": 1780554381.154357,
+    "ast_hash": "c5b0580185c908acf8cd221ca0b532a6",
     "semantic_hash": ""
   },
   "W6_TaskPlan.md": {
     "mtime": 1780540537.119125,
     "ast_hash": "27f54880794ec87b0392cabf101744c7",
-    "semantic_hash": ""
+    "semantic_hash": "27f54880794ec87b0392cabf101744c7"
   },
   "requirements.txt": {
     "mtime": 1780540537.120127,
     "ast_hash": "34f2ad60cd4825b245834d598c078924",
-    "semantic_hash": ""
+    "semantic_hash": "34f2ad60cd4825b245834d598c078924"
   },
   "W6_Probabilistic_Models_Resource_Guide.pdf": {
     "mtime": 1780540537.119125,
     "ast_hash": "891c4cbdc79040cea68f677d4d784ddb",
-    "semantic_hash": ""
+    "semantic_hash": "891c4cbdc79040cea68f677d4d784ddb"
   },
   "GIT_LFS_GUIDE.md": {
     "mtime": 1780545889.6256783,
     "ast_hash": "fcaa3178fb4e4669bf26ba4f89f58266",
-    "semantic_hash": ""
+    "semantic_hash": "fcaa3178fb4e4669bf26ba4f89f58266"
   },
   "setup_git_lfs.ps1": {
     "mtime": 1780546298.8870242,
     "ast_hash": "1c30acb08c41dd256f9c9cdcbbdf1629",
-    "semantic_hash": ""
+    "semantic_hash": "1c30acb08c41dd256f9c9cdcbbdf1629"
+  },
+  "generate_w6_trace.py": {
+    "mtime": 1780553985.8605728,
+    "ast_hash": "5fb2fc8e0ecfe9844a5ed9e243cc1b13",
+    "semantic_hash": "5fb2fc8e0ecfe9844a5ed9e243cc1b13"
   }
 }

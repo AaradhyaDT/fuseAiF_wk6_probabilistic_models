@@ -8,7 +8,7 @@ Use this file to track progress through the Week 6 probabilistic models assignme
 - `W6_Probabilistic_Models_Assignment.ipynb` is present
 - `W6_TaskPlan.md` is present
 - `W6_Probabilistic_Models_Resource_Guide.pdf` is present
-- `telco_bayes_lr_v1.pkl` is not currently present in the working tree
+- `telco_bayes_lr_v1.pkl` is present in the working tree
 
 ## Repo maintenance
 - [x] Sync local `main` branch to `origin/main`
@@ -55,12 +55,12 @@ Use this file to track progress through the Week 6 probabilistic models assignme
 - [x] Q19: run convergence diagnostics; evaluate R̂ and ESS
 - [x] Q20: perform prior sensitivity analysis
 - [x] Q21: compare Bayesian posterior to frequentist logistic regression
-- [ ] Q22: save the MCMC trace to `telco_bayes_lr_v1.pkl`
+- [x] Q22: save the MCMC trace to `telco_bayes_lr_v1.pkl`
 - [x] Reflect 6: answer reflection questions
 
 ## Submission artifacts
 - [ ] Executed notebook with outputs visible
-- [ ] `telco_bayes_lr_v1.pkl` saved
+- [x] `telco_bayes_lr_v1.pkl` saved
 - [ ] One-page reflection PDF/MD completed
 
 ## Notes
