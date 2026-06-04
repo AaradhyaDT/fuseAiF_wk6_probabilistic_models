@@ -1,0 +1,261 @@
+{
+  "communities": {
+    "0": [
+      "w6_taskplan_part_1_estimation_trinity",
+      "w6_taskplan_part_2_sequential_updating",
+      "w6_taskplan_part_3_multivariate_gaussians",
+      "w6_taskplan_part_4_pgms",
+      "w6_taskplan_part_5_gp_regression",
+      "w6_taskplan_part_6_mcmc",
+      "w6_taskplan_q10_3d_covariance_condition_number_marginalisation",
+      "w6_taskplan_q8a_fit_2d_gaussian",
+      "w6_taskplan_q8b_scatter_1\u03c3_2\u03c3_3\u03c3_confidence_ellipses",
+      "w6_taskplan_q9_conditional_gaussian_p_monthlycharges_tenure_24",
+      "w6_taskplan_reflect_3",
+      "w6_taskplan_submission_artefacts",
+      "w6_taskplan_submission_checklist"
+    ],
+    "1": [
+      "task_progress",
+      "task_progress_notes",
+      "task_progress_part_1_estimation_trinity",
+      "task_progress_part_2_sequential_updating_dirichlet_multinomial",
+      "task_progress_part_3_multivariate_gaussians",
+      "task_progress_part_4_probabilistic_graphical_models",
+      "task_progress_part_5_gaussian_process_regression",
+      "task_progress_part_6_mcmc_bayesian_logistic_regression",
+      "task_progress_repo_artifacts_found",
+      "task_progress_repo_maintenance",
+      "task_progress_submission_artifacts",
+      "task_progress_week_6_task_progress"
+    ],
+    "2": [
+      "w6_taskplan",
+      "w6_taskplan_environment_setup",
+      "w6_taskplan_known_gotchas",
+      "w6_taskplan_master_task_plan_fusemachines_ai_fellowship",
+      "w6_taskplan_part_4_probabilistic_graphical_models",
+      "w6_taskplan_q11_build_and_fit_bayesian_network",
+      "w6_taskplan_q12_structure_sensitivity_two_competing_dags",
+      "w6_taskplan_q13_markov_random_field",
+      "w6_taskplan_quick_reference",
+      "w6_taskplan_reference_formulas",
+      "w6_taskplan_reflect_4",
+      "w6_taskplan_w6_probabilistic_models_bayesian_inference"
+    ],
+    "3": [
+      "gemini",
+      "gemini_graphify",
+      "github_copilot_instructions",
+      "github_copilot_instructions_graph_json",
+      "github_copilot_instructions_graph_report",
+      "github_copilot_instructions_graphify",
+      "github_copilot_instructions_graphify_explain",
+      "github_copilot_instructions_graphify_query",
+      "github_copilot_instructions_slash_graphify",
+      "github_copilot_instructions_wiki_index",
+      "rules_graphify"
+    ],
+    "4": [
+      "git_lfs_guide",
+      "readme",
+      "readme_fuseaif_wk6_probabilistic_models",
+      "readme_how_to_use_this_repo",
+      "readme_notes",
+      "readme_overview",
+      "readme_repository_structure",
+      "readme_setup",
+      "readme_submission_artifacts",
+      "task_progress_tracker",
+      "w6_taskplan_md"
+    ],
+    "5": [
+      "git_lfs_guide_best_practice",
+      "git_lfs_guide_cloning_this_repo_in_the_future",
+      "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "git_lfs_guide_how_to_add_a_new_model_file",
+      "git_lfs_guide_if_you_already_committed_a_large_file",
+      "git_lfs_guide_setup_steps",
+      "git_lfs_guide_what_was_added",
+      "git_lfs_guide_why_use_git_lfs"
+    ],
+    "6": [
+      "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "w6_taskplan_q18_feature_scaling_rationale_model_spec",
+      "w6_taskplan_q19_convergence_diagnostics",
+      "w6_taskplan_q20_prior_sensitivity_check",
+      "w6_taskplan_q21_posterior_analysis_frequentist_comparison",
+      "w6_taskplan_q22_save_mcmc_trace",
+      "w6_taskplan_reflect_6"
+    ],
+    "7": [
+      "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "w6_taskplan_q1_extract_experimental_groups",
+      "w6_taskplan_q2a_compute_mle_map_pull_table",
+      "w6_taskplan_q2b_plot_3_posterior_pdfs",
+      "w6_taskplan_q3_monte_carlo_p_\u03b8_a_\u03b8_b",
+      "w6_taskplan_reflect_1"
+    ],
+    "8": [
+      "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "w6_taskplan_q4_implement_update_posterior",
+      "w6_taskplan_q5_sequential_update_posterior_evolution_plot",
+      "w6_taskplan_q6_decision_boundary_p_\u03b8_0_25_vs_n",
+      "w6_taskplan_q7_dirichlet_multinomial",
+      "w6_taskplan_reflect_2"
+    ],
+    "9": [
+      "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
+      "w6_taskplan_q14_load_mauna_loa",
+      "w6_taskplan_q15_kernel_design_rationale_fill_table_before_coding",
+      "w6_taskplan_q16_gap_experiment",
+      "w6_taskplan_q17_extrapolation_and_confidence_boundary",
+      "w6_taskplan_reflect_5_exactly_two_sentences"
+    ],
+    "10": [
+      "gemini_md",
+      "graphify_concept"
+    ],
+    "11": [
+      "generate_w6_trace",
+      "generate_w6_trace_main"
+    ],
+    "12": [
+      "workflows_graphify",
+      "workflows_graphify_workflow_graphify"
+    ],
+    "13": [
+      "graphify_workflow"
+    ],
+    "14": [
+      "requirements_txt"
+    ],
+    "15": [
+      "setup_git_lfs"
+    ],
+    "16": [
+      "w6_probabilistic_models_resource_guide_pdf"
+    ]
+  },
+  "cohesion": {
+    "0": 0.15384615384615385,
+    "1": 0.16666666666666666,
+    "2": 0.16666666666666666,
+    "3": 0.18181818181818182,
+    "4": 0.2,
+    "5": 0.25,
+    "6": 0.2857142857142857,
+    "7": 0.3333333333333333,
+    "8": 0.3333333333333333,
+    "9": 0.3333333333333333,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0
+  },
+  "gods": [
+    {
+      "id": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
+      "label": "W6 \u2014 Probabilistic Models & Bayesian Inference",
+      "degree": 13
+    },
+    {
+      "id": "task_progress_week_6_task_progress",
+      "label": "Week 6 Task Progress",
+      "degree": 11
+    },
+    {
+      "id": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
+      "label": "Git LFS Guide for Large Model Artifacts",
+      "degree": 8
+    },
+    {
+      "id": "w6_taskplan_submission_checklist",
+      "label": "SUBMISSION CHECKLIST",
+      "degree": 8
+    },
+    {
+      "id": "readme_fuseaif_wk6_probabilistic_models",
+      "label": "fuseAiF_wk6_probabilistic_models",
+      "degree": 7
+    },
+    {
+      "id": "w6_taskplan_part_3_multivariate_gaussians",
+      "label": "PART 3 \u00b7 MULTIVARIATE GAUSSIANS",
+      "degree": 7
+    },
+    {
+      "id": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
+      "label": "PART 6 \u00b7 MCMC \u2014 BAYESIAN LOGISTIC REGRESSION",
+      "degree": 7
+    },
+    {
+      "id": "github_copilot_instructions_graphify",
+      "label": "graphify",
+      "degree": 6
+    },
+    {
+      "id": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
+      "label": "PART 1 \u00b7 THE ESTIMATION TRINITY \u2014 MLE, MAP, FULL BAYES",
+      "degree": 6
+    },
+    {
+      "id": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
+      "label": "PART 2 \u00b7 SEQUENTIAL BAYESIAN UPDATING & DIRICHLET-MULTINOMIAL",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "graphify",
+      "target": "graphify",
+      "source_files": [
+        ".github/copilot-instructions.md",
+        "GEMINI.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "Overview",
+      "target": "Task Progress Tracker",
+      "source_files": [
+        "README.md",
+        "TASK_PROGRESS.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "Overview",
+      "target": "Master Task Plan",
+      "source_files": [
+        "README.md",
+        "W6_TaskPlan.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "Task Progress Tracker",
+      "target": "Master Task Plan",
+      "source_files": [
+        "TASK_PROGRESS.md",
+        "W6_TaskPlan.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories"
+    }
+  ],
+  "tokens": {
+    "input": 588,
+    "output": 1611
+  }
+}
