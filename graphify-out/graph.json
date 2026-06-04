@@ -4,258 +4,6 @@
   "graph": {},
   "nodes": [
     {
-      "label": "generate_w6_trace.py",
-      "file_type": "code",
-      "source_file": "generate_w6_trace.py",
-      "source_location": "L1",
-      "id": "generate_w6_trace",
-      "community": 11,
-      "norm_label": "generate_w6_trace.py"
-    },
-    {
-      "label": "main()",
-      "file_type": "code",
-      "source_file": "generate_w6_trace.py",
-      "source_location": "L49",
-      "id": "generate_w6_trace_main",
-      "community": 11,
-      "norm_label": "main()"
-    },
-    {
-      "label": "setup_git_lfs.ps1",
-      "file_type": "code",
-      "source_file": "setup_git_lfs.ps1",
-      "source_location": "L1",
-      "id": "setup_git_lfs",
-      "community": 15,
-      "norm_label": "setup_git_lfs.ps1"
-    },
-    {
-      "label": "graphify.md",
-      "file_type": "document",
-      "source_file": ".agents/rules/graphify.md",
-      "source_location": "L1",
-      "id": "rules_graphify",
-      "community": 3,
-      "norm_label": "graphify.md"
-    },
-    {
-      "label": "graphify",
-      "file_type": "document",
-      "source_file": ".agents/rules/graphify.md",
-      "source_location": "L6",
-      "id": "rules_graphify_graphify",
-      "community": 3,
-      "norm_label": "graphify"
-    },
-    {
-      "label": "graphify.md",
-      "file_type": "document",
-      "source_file": ".agents/workflows/graphify.md",
-      "source_location": "L1",
-      "id": "workflows_graphify",
-      "community": 12,
-      "norm_label": "graphify.md"
-    },
-    {
-      "label": "Workflow: graphify",
-      "file_type": "document",
-      "source_file": ".agents/workflows/graphify.md",
-      "source_location": "L6",
-      "id": "workflows_graphify_workflow_graphify",
-      "community": 12,
-      "norm_label": "workflow: graphify"
-    },
-    {
-      "label": "copilot-instructions.md",
-      "file_type": "document",
-      "source_file": ".github/copilot-instructions.md",
-      "source_location": "L1",
-      "id": "github_copilot_instructions",
-      "community": 3,
-      "norm_label": "copilot-instructions.md"
-    },
-    {
-      "label": "graphify",
-      "file_type": "document",
-      "source_file": ".github/copilot-instructions.md",
-      "source_location": "L1",
-      "id": "github_copilot_instructions_graphify",
-      "community": 3,
-      "norm_label": "graphify"
-    },
-    {
-      "label": "GEMINI.md",
-      "file_type": "document",
-      "source_file": "GEMINI.md",
-      "source_location": "L1",
-      "id": "gemini",
-      "community": 3,
-      "norm_label": "gemini.md"
-    },
-    {
-      "label": "graphify",
-      "file_type": "document",
-      "source_file": "GEMINI.md",
-      "source_location": "L1",
-      "id": "gemini_graphify",
-      "community": 3,
-      "norm_label": "graphify"
-    },
-    {
-      "label": "GIT_LFS_GUIDE.md",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L1",
-      "id": "git_lfs_guide",
-      "community": 4,
-      "norm_label": "git_lfs_guide.md"
-    },
-    {
-      "label": "Git LFS Guide for Large Model Artifacts",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L1",
-      "id": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts",
-      "community": 5,
-      "norm_label": "git lfs guide for large model artifacts"
-    },
-    {
-      "label": "Why use Git LFS",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L5",
-      "id": "git_lfs_guide_why_use_git_lfs",
-      "community": 5,
-      "norm_label": "why use git lfs"
-    },
-    {
-      "label": "What was added",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L10",
-      "id": "git_lfs_guide_what_was_added",
-      "community": 5,
-      "norm_label": "what was added"
-    },
-    {
-      "label": "Setup steps",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L18",
-      "id": "git_lfs_guide_setup_steps",
-      "community": 5,
-      "norm_label": "setup steps"
-    },
-    {
-      "label": "How to add a new model file",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L58",
-      "id": "git_lfs_guide_how_to_add_a_new_model_file",
-      "community": 5,
-      "norm_label": "how to add a new model file"
-    },
-    {
-      "label": "If you already committed a large file",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L77",
-      "id": "git_lfs_guide_if_you_already_committed_a_large_file",
-      "community": 5,
-      "norm_label": "if you already committed a large file"
-    },
-    {
-      "label": "Cloning this repo in the future",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L95",
-      "id": "git_lfs_guide_cloning_this_repo_in_the_future",
-      "community": 5,
-      "norm_label": "cloning this repo in the future"
-    },
-    {
-      "label": "Best practice",
-      "file_type": "document",
-      "source_file": "GIT_LFS_GUIDE.md",
-      "source_location": "L106",
-      "id": "git_lfs_guide_best_practice",
-      "community": 5,
-      "norm_label": "best practice"
-    },
-    {
-      "label": "README.md",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "id": "readme",
-      "community": 4,
-      "norm_label": "readme.md"
-    },
-    {
-      "label": "fuseAiF_wk6_probabilistic_models",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L1",
-      "id": "readme_fuseaif_wk6_probabilistic_models",
-      "community": 4,
-      "norm_label": "fuseaif_wk6_probabilistic_models"
-    },
-    {
-      "label": "Overview",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L3",
-      "id": "readme_overview",
-      "community": 4,
-      "norm_label": "overview"
-    },
-    {
-      "label": "Repository structure",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L13",
-      "id": "readme_repository_structure",
-      "community": 4,
-      "norm_label": "repository structure"
-    },
-    {
-      "label": "Setup",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L22",
-      "id": "readme_setup",
-      "community": 4,
-      "norm_label": "setup"
-    },
-    {
-      "label": "How to use this repo",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L34",
-      "id": "readme_how_to_use_this_repo",
-      "community": 4,
-      "norm_label": "how to use this repo"
-    },
-    {
-      "label": "Submission artifacts",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L40",
-      "id": "readme_submission_artifacts",
-      "community": 4,
-      "norm_label": "submission artifacts"
-    },
-    {
-      "label": "Notes",
-      "file_type": "document",
-      "source_file": "README.md",
-      "source_location": "L47",
-      "id": "readme_notes",
-      "community": 4,
-      "norm_label": "notes"
-    },
-    {
       "label": "TASK_PROGRESS.md",
       "file_type": "document",
       "source_file": "TASK_PROGRESS.md",
@@ -373,463 +121,715 @@
       "norm_label": "notes"
     },
     {
+      "label": "generate_w6_trace.py",
+      "file_type": "code",
+      "source_file": "generate_w6_trace.py",
+      "source_location": "L1",
+      "id": "generate_w6_trace",
+      "community": 11,
+      "norm_label": "generate_w6_trace.py"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "generate_w6_trace.py",
+      "source_location": "L49",
+      "id": "generate_w6_trace_main",
+      "community": 11,
+      "norm_label": "main()"
+    },
+    {
+      "label": "setup_git_lfs.ps1",
+      "file_type": "code",
+      "source_file": "setup_git_lfs.ps1",
+      "source_location": "L1",
+      "community": 15,
+      "norm_label": "setup_git_lfs.ps1",
+      "id": "setup_git_lfs"
+    },
+    {
+      "label": "graphify.md",
+      "file_type": "document",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "graphify.md",
+      "id": "rules_graphify"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": ".agents/rules/graphify.md",
+      "source_location": "L6",
+      "community": 3,
+      "norm_label": "graphify",
+      "id": "rules_graphify_graphify"
+    },
+    {
+      "label": "graphify.md",
+      "file_type": "document",
+      "source_file": ".agents/workflows/graphify.md",
+      "source_location": "L1",
+      "community": 12,
+      "norm_label": "graphify.md",
+      "id": "workflows_graphify"
+    },
+    {
+      "label": "Workflow: graphify",
+      "file_type": "document",
+      "source_file": ".agents/workflows/graphify.md",
+      "source_location": "L6",
+      "community": 12,
+      "norm_label": "workflow: graphify",
+      "id": "workflows_graphify_workflow_graphify"
+    },
+    {
+      "label": "copilot-instructions.md",
+      "file_type": "document",
+      "source_file": ".github/copilot-instructions.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "copilot-instructions.md",
+      "id": "github_copilot_instructions"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": ".github/copilot-instructions.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "graphify",
+      "id": "github_copilot_instructions_graphify"
+    },
+    {
+      "label": "GEMINI.md",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "gemini.md",
+      "id": "gemini"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "graphify",
+      "id": "gemini_graphify"
+    },
+    {
+      "label": "GIT_LFS_GUIDE.md",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L1",
+      "community": 5,
+      "norm_label": "git_lfs_guide.md",
+      "id": "git_lfs_guide"
+    },
+    {
+      "label": "Git LFS Guide for Large Model Artifacts",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L1",
+      "community": 5,
+      "norm_label": "git lfs guide for large model artifacts",
+      "id": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts"
+    },
+    {
+      "label": "Why use Git LFS",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L5",
+      "community": 5,
+      "norm_label": "why use git lfs",
+      "id": "git_lfs_guide_why_use_git_lfs"
+    },
+    {
+      "label": "What was added",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L10",
+      "community": 5,
+      "norm_label": "what was added",
+      "id": "git_lfs_guide_what_was_added"
+    },
+    {
+      "label": "Setup steps",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L18",
+      "community": 5,
+      "norm_label": "setup steps",
+      "id": "git_lfs_guide_setup_steps"
+    },
+    {
+      "label": "How to add a new model file",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L58",
+      "community": 5,
+      "norm_label": "how to add a new model file",
+      "id": "git_lfs_guide_how_to_add_a_new_model_file"
+    },
+    {
+      "label": "If you already committed a large file",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L77",
+      "community": 5,
+      "norm_label": "if you already committed a large file",
+      "id": "git_lfs_guide_if_you_already_committed_a_large_file"
+    },
+    {
+      "label": "Cloning this repo in the future",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L95",
+      "community": 5,
+      "norm_label": "cloning this repo in the future",
+      "id": "git_lfs_guide_cloning_this_repo_in_the_future"
+    },
+    {
+      "label": "Best practice",
+      "file_type": "document",
+      "source_file": "GIT_LFS_GUIDE.md",
+      "source_location": "L106",
+      "community": 5,
+      "norm_label": "best practice",
+      "id": "git_lfs_guide_best_practice"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "community": 4,
+      "norm_label": "readme.md",
+      "id": "readme"
+    },
+    {
+      "label": "fuseAiF_wk6_probabilistic_models",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "community": 4,
+      "norm_label": "fuseaif_wk6_probabilistic_models",
+      "id": "readme_fuseaif_wk6_probabilistic_models"
+    },
+    {
+      "label": "Overview",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L3",
+      "community": 4,
+      "norm_label": "overview",
+      "id": "readme_overview"
+    },
+    {
+      "label": "Repository structure",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "community": 4,
+      "norm_label": "repository structure",
+      "id": "readme_repository_structure"
+    },
+    {
+      "label": "Setup",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L22",
+      "community": 4,
+      "norm_label": "setup",
+      "id": "readme_setup"
+    },
+    {
+      "label": "How to use this repo",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L34",
+      "community": 4,
+      "norm_label": "how to use this repo",
+      "id": "readme_how_to_use_this_repo"
+    },
+    {
+      "label": "Submission artifacts",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L40",
+      "community": 4,
+      "norm_label": "submission artifacts",
+      "id": "readme_submission_artifacts"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L47",
+      "community": 4,
+      "norm_label": "notes",
+      "id": "readme_notes"
+    },
+    {
       "label": "W6_TaskPlan.md",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L1",
-      "id": "w6_taskplan",
       "community": 2,
-      "norm_label": "w6_taskplan.md"
+      "norm_label": "w6_taskplan.md",
+      "id": "w6_taskplan"
     },
     {
       "label": "W6 \u2014 Probabilistic Models & Bayesian Inference",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L1",
-      "id": "w6_taskplan_w6_probabilistic_models_bayesian_inference",
       "community": 2,
-      "norm_label": "w6 \u2014 probabilistic models & bayesian inference"
+      "norm_label": "w6 \u2014 probabilistic models & bayesian inference",
+      "id": "w6_taskplan_w6_probabilistic_models_bayesian_inference"
     },
     {
       "label": "Master Task Plan \u00b7 Fusemachines AI Fellowship",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L2",
-      "id": "w6_taskplan_master_task_plan_fusemachines_ai_fellowship",
       "community": 2,
-      "norm_label": "master task plan \u00b7 fusemachines ai fellowship"
+      "norm_label": "master task plan \u00b7 fusemachines ai fellowship",
+      "id": "w6_taskplan_master_task_plan_fusemachines_ai_fellowship"
     },
     {
       "label": "QUICK REFERENCE",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L7",
-      "id": "w6_taskplan_quick_reference",
       "community": 2,
-      "norm_label": "quick reference"
+      "norm_label": "quick reference",
+      "id": "w6_taskplan_quick_reference"
     },
     {
       "label": "ENVIRONMENT SETUP",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L22",
-      "id": "w6_taskplan_environment_setup",
       "community": 2,
-      "norm_label": "environment setup"
+      "norm_label": "environment setup",
+      "id": "w6_taskplan_environment_setup"
     },
     {
       "label": "PART 1 \u00b7 THE ESTIMATION TRINITY \u2014 MLE, MAP, FULL BAYES",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L47",
-      "id": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes",
       "community": 7,
-      "norm_label": "part 1 \u00b7 the estimation trinity \u2014 mle, map, full bayes"
+      "norm_label": "part 1 \u00b7 the estimation trinity \u2014 mle, map, full bayes",
+      "id": "w6_taskplan_part_1_the_estimation_trinity_mle_map_full_bayes"
     },
     {
       "label": "Q1 \u00b7 Extract experimental groups `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L53",
-      "id": "w6_taskplan_q1_extract_experimental_groups",
       "community": 7,
-      "norm_label": "q1 \u00b7 extract experimental groups `[ ]`"
+      "norm_label": "q1 \u00b7 extract experimental groups `[ ]`",
+      "id": "w6_taskplan_q1_extract_experimental_groups"
     },
     {
       "label": "Q2a \u00b7 Compute MLE, MAP, pull table `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L64",
-      "id": "w6_taskplan_q2a_compute_mle_map_pull_table",
       "community": 7,
-      "norm_label": "q2a \u00b7 compute mle, map, pull table `[ ]`"
+      "norm_label": "q2a \u00b7 compute mle, map, pull table `[ ]`",
+      "id": "w6_taskplan_q2a_compute_mle_map_pull_table"
     },
     {
       "label": "Q2b \u00b7 Plot 3 posterior PDFs `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L79",
-      "id": "w6_taskplan_q2b_plot_3_posterior_pdfs",
       "community": 7,
-      "norm_label": "q2b \u00b7 plot 3 posterior pdfs `[ ]`"
+      "norm_label": "q2b \u00b7 plot 3 posterior pdfs `[ ]`",
+      "id": "w6_taskplan_q2b_plot_3_posterior_pdfs"
     },
     {
       "label": "Q3 \u00b7 Monte Carlo P(\u03b8_A > \u03b8_B) `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L89",
-      "id": "w6_taskplan_q3_monte_carlo_p_\u03b8_a_\u03b8_b",
       "community": 7,
-      "norm_label": "q3 \u00b7 monte carlo p(\u03b8_a > \u03b8_b) `[ ]`"
+      "norm_label": "q3 \u00b7 monte carlo p(\u03b8_a > \u03b8_b) `[ ]`",
+      "id": "w6_taskplan_q3_monte_carlo_p_\u03b8_a_\u03b8_b"
     },
     {
       "label": "\u270d\ufe0f Reflect 1 `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L102",
-      "id": "w6_taskplan_reflect_1",
       "community": 7,
-      "norm_label": "\u270d\ufe0f reflect 1 `[ ]`"
+      "norm_label": "\u270d\ufe0f reflect 1 `[ ]`",
+      "id": "w6_taskplan_reflect_1"
     },
     {
       "label": "PART 2 \u00b7 SEQUENTIAL BAYESIAN UPDATING & DIRICHLET-MULTINOMIAL",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L109",
-      "id": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial",
       "community": 8,
-      "norm_label": "part 2 \u00b7 sequential bayesian updating & dirichlet-multinomial"
+      "norm_label": "part 2 \u00b7 sequential bayesian updating & dirichlet-multinomial",
+      "id": "w6_taskplan_part_2_sequential_bayesian_updating_dirichlet_multinomial"
     },
     {
       "label": "Q4 \u00b7 Implement `update_posterior()` `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L113",
-      "id": "w6_taskplan_q4_implement_update_posterior",
       "community": 8,
-      "norm_label": "q4 \u00b7 implement `update_posterior()` `[ ]`"
+      "norm_label": "q4 \u00b7 implement `update_posterior()` `[ ]`",
+      "id": "w6_taskplan_q4_implement_update_posterior"
     },
     {
       "label": "Q5 \u00b7 Sequential update \u2014 posterior evolution plot `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L126",
-      "id": "w6_taskplan_q5_sequential_update_posterior_evolution_plot",
       "community": 8,
-      "norm_label": "q5 \u00b7 sequential update \u2014 posterior evolution plot `[ ]`"
+      "norm_label": "q5 \u00b7 sequential update \u2014 posterior evolution plot `[ ]`",
+      "id": "w6_taskplan_q5_sequential_update_posterior_evolution_plot"
     },
     {
       "label": "Q6 \u00b7 Decision boundary P(\u03b8 > 0.25) vs n `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L142",
-      "id": "w6_taskplan_q6_decision_boundary_p_\u03b8_0_25_vs_n",
       "community": 8,
-      "norm_label": "q6 \u00b7 decision boundary p(\u03b8 > 0.25) vs n `[ ]`"
+      "norm_label": "q6 \u00b7 decision boundary p(\u03b8 > 0.25) vs n `[ ]`",
+      "id": "w6_taskplan_q6_decision_boundary_p_\u03b8_0_25_vs_n"
     },
     {
       "label": "Q7 \u00b7 Dirichlet-Multinomial `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L157",
-      "id": "w6_taskplan_q7_dirichlet_multinomial",
       "community": 8,
-      "norm_label": "q7 \u00b7 dirichlet-multinomial `[ ]`"
+      "norm_label": "q7 \u00b7 dirichlet-multinomial `[ ]`",
+      "id": "w6_taskplan_q7_dirichlet_multinomial"
     },
     {
       "label": "\u270d\ufe0f Reflect 2 `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L171",
-      "id": "w6_taskplan_reflect_2",
       "community": 8,
-      "norm_label": "\u270d\ufe0f reflect 2 `[ ]`"
+      "norm_label": "\u270d\ufe0f reflect 2 `[ ]`",
+      "id": "w6_taskplan_reflect_2"
     },
     {
       "label": "PART 3 \u00b7 MULTIVARIATE GAUSSIANS",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L178",
-      "id": "w6_taskplan_part_3_multivariate_gaussians",
       "community": 17,
-      "norm_label": "part 3 \u00b7 multivariate gaussians"
+      "norm_label": "part 3 \u00b7 multivariate gaussians",
+      "id": "w6_taskplan_part_3_multivariate_gaussians"
     },
     {
       "label": "Q8a \u00b7 Fit 2D Gaussian `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L182",
-      "id": "w6_taskplan_q8a_fit_2d_gaussian",
       "community": 17,
-      "norm_label": "q8a \u00b7 fit 2d gaussian `[ ]`"
+      "norm_label": "q8a \u00b7 fit 2d gaussian `[ ]`",
+      "id": "w6_taskplan_q8a_fit_2d_gaussian"
     },
     {
       "label": "Q8b \u00b7 Scatter + 1\u03c3/2\u03c3/3\u03c3 confidence ellipses `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L194",
-      "id": "w6_taskplan_q8b_scatter_1\u03c3_2\u03c3_3\u03c3_confidence_ellipses",
       "community": 17,
-      "norm_label": "q8b \u00b7 scatter + 1\u03c3/2\u03c3/3\u03c3 confidence ellipses `[ ]`"
+      "norm_label": "q8b \u00b7 scatter + 1\u03c3/2\u03c3/3\u03c3 confidence ellipses `[ ]`",
+      "id": "w6_taskplan_q8b_scatter_1\u03c3_2\u03c3_3\u03c3_confidence_ellipses"
     },
     {
       "label": "Q9 \u00b7 Conditional Gaussian P(MonthlyCharges | tenure=24) `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L199",
-      "id": "w6_taskplan_q9_conditional_gaussian_p_monthlycharges_tenure_24",
       "community": 17,
-      "norm_label": "q9 \u00b7 conditional gaussian p(monthlycharges | tenure=24) `[ ]`"
+      "norm_label": "q9 \u00b7 conditional gaussian p(monthlycharges | tenure=24) `[ ]`",
+      "id": "w6_taskplan_q9_conditional_gaussian_p_monthlycharges_tenure_24"
     },
     {
       "label": "Q10 \u00b7 3D Covariance + Condition Number + Marginalisation `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L211",
-      "id": "w6_taskplan_q10_3d_covariance_condition_number_marginalisation",
       "community": 17,
-      "norm_label": "q10 \u00b7 3d covariance + condition number + marginalisation `[ ]`"
+      "norm_label": "q10 \u00b7 3d covariance + condition number + marginalisation `[ ]`",
+      "id": "w6_taskplan_q10_3d_covariance_condition_number_marginalisation"
     },
     {
       "label": "\u270d\ufe0f Reflect 3 `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L224",
-      "id": "w6_taskplan_reflect_3",
       "community": 17,
-      "norm_label": "\u270d\ufe0f reflect 3 `[ ]`"
+      "norm_label": "\u270d\ufe0f reflect 3 `[ ]`",
+      "id": "w6_taskplan_reflect_3"
     },
     {
       "label": "PART 4 \u00b7 PROBABILISTIC GRAPHICAL MODELS",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L231",
-      "id": "w6_taskplan_part_4_probabilistic_graphical_models",
       "community": 2,
-      "norm_label": "part 4 \u00b7 probabilistic graphical models"
+      "norm_label": "part 4 \u00b7 probabilistic graphical models",
+      "id": "w6_taskplan_part_4_probabilistic_graphical_models"
     },
     {
       "label": "Q11 \u00b7 Build and fit Bayesian Network `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L235",
-      "id": "w6_taskplan_q11_build_and_fit_bayesian_network",
       "community": 2,
-      "norm_label": "q11 \u00b7 build and fit bayesian network `[ ]`"
+      "norm_label": "q11 \u00b7 build and fit bayesian network `[ ]`",
+      "id": "w6_taskplan_q11_build_and_fit_bayesian_network"
     },
     {
       "label": "Q12 \u00b7 Structure sensitivity: two competing DAGs `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L273",
-      "id": "w6_taskplan_q12_structure_sensitivity_two_competing_dags",
       "community": 2,
-      "norm_label": "q12 \u00b7 structure sensitivity: two competing dags `[ ]`"
+      "norm_label": "q12 \u00b7 structure sensitivity: two competing dags `[ ]`",
+      "id": "w6_taskplan_q12_structure_sensitivity_two_competing_dags"
     },
     {
       "label": "Q13 \u00b7 Markov Random Field `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L300",
-      "id": "w6_taskplan_q13_markov_random_field",
       "community": 2,
-      "norm_label": "q13 \u00b7 markov random field `[ ]`"
+      "norm_label": "q13 \u00b7 markov random field `[ ]`",
+      "id": "w6_taskplan_q13_markov_random_field"
     },
     {
       "label": "\u270d\ufe0f Reflect 4 `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L324",
-      "id": "w6_taskplan_reflect_4",
       "community": 2,
-      "norm_label": "\u270d\ufe0f reflect 4 `[ ]`"
+      "norm_label": "\u270d\ufe0f reflect 4 `[ ]`",
+      "id": "w6_taskplan_reflect_4"
     },
     {
       "label": "PART 5 \u00b7 GAUSSIAN PROCESS REGRESSION \u2014 MAUNA LOA CO\u2082",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L331",
-      "id": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2",
       "community": 9,
-      "norm_label": "part 5 \u00b7 gaussian process regression \u2014 mauna loa co2"
+      "norm_label": "part 5 \u00b7 gaussian process regression \u2014 mauna loa co2",
+      "id": "w6_taskplan_part_5_gaussian_process_regression_mauna_loa_co2"
     },
     {
       "label": "Q14 \u00b7 Load Mauna Loa `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L335",
-      "id": "w6_taskplan_q14_load_mauna_loa",
       "community": 9,
-      "norm_label": "q14 \u00b7 load mauna loa `[ ]`"
+      "norm_label": "q14 \u00b7 load mauna loa `[ ]`",
+      "id": "w6_taskplan_q14_load_mauna_loa"
     },
     {
       "label": "Q15 \u00b7 Kernel design rationale (fill table BEFORE coding) `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L347",
-      "id": "w6_taskplan_q15_kernel_design_rationale_fill_table_before_coding",
       "community": 9,
-      "norm_label": "q15 \u00b7 kernel design rationale (fill table before coding) `[ ]`"
+      "norm_label": "q15 \u00b7 kernel design rationale (fill table before coding) `[ ]`",
+      "id": "w6_taskplan_q15_kernel_design_rationale_fill_table_before_coding"
     },
     {
       "label": "Q16 \u00b7 Gap experiment `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L374",
-      "id": "w6_taskplan_q16_gap_experiment",
       "community": 9,
-      "norm_label": "q16 \u00b7 gap experiment `[ ]`"
+      "norm_label": "q16 \u00b7 gap experiment `[ ]`",
+      "id": "w6_taskplan_q16_gap_experiment"
     },
     {
       "label": "Q17 \u00b7 Extrapolation and confidence boundary `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L391",
-      "id": "w6_taskplan_q17_extrapolation_and_confidence_boundary",
       "community": 9,
-      "norm_label": "q17 \u00b7 extrapolation and confidence boundary `[ ]`"
+      "norm_label": "q17 \u00b7 extrapolation and confidence boundary `[ ]`",
+      "id": "w6_taskplan_q17_extrapolation_and_confidence_boundary"
     },
     {
       "label": "\u270d\ufe0f Reflect 5 `[ ]` (exactly two sentences)",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L412",
-      "id": "w6_taskplan_reflect_5_exactly_two_sentences",
       "community": 9,
-      "norm_label": "\u270d\ufe0f reflect 5 `[ ]` (exactly two sentences)"
+      "norm_label": "\u270d\ufe0f reflect 5 `[ ]` (exactly two sentences)",
+      "id": "w6_taskplan_reflect_5_exactly_two_sentences"
     },
     {
       "label": "PART 6 \u00b7 MCMC \u2014 BAYESIAN LOGISTIC REGRESSION",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L417",
-      "id": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression",
       "community": 6,
-      "norm_label": "part 6 \u00b7 mcmc \u2014 bayesian logistic regression"
+      "norm_label": "part 6 \u00b7 mcmc \u2014 bayesian logistic regression",
+      "id": "w6_taskplan_part_6_mcmc_bayesian_logistic_regression"
     },
     {
       "label": "Q18 \u00b7 Feature scaling rationale + model spec `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L421",
-      "id": "w6_taskplan_q18_feature_scaling_rationale_model_spec",
       "community": 6,
-      "norm_label": "q18 \u00b7 feature scaling rationale + model spec `[ ]`"
+      "norm_label": "q18 \u00b7 feature scaling rationale + model spec `[ ]`",
+      "id": "w6_taskplan_q18_feature_scaling_rationale_model_spec"
     },
     {
       "label": "Q19 \u00b7 Convergence diagnostics `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L442",
-      "id": "w6_taskplan_q19_convergence_diagnostics",
       "community": 6,
-      "norm_label": "q19 \u00b7 convergence diagnostics `[ ]`"
+      "norm_label": "q19 \u00b7 convergence diagnostics `[ ]`",
+      "id": "w6_taskplan_q19_convergence_diagnostics"
     },
     {
       "label": "Q20 \u00b7 Prior sensitivity check `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L461",
-      "id": "w6_taskplan_q20_prior_sensitivity_check",
       "community": 6,
-      "norm_label": "q20 \u00b7 prior sensitivity check `[ ]`"
+      "norm_label": "q20 \u00b7 prior sensitivity check `[ ]`",
+      "id": "w6_taskplan_q20_prior_sensitivity_check"
     },
     {
       "label": "Q21 \u00b7 Posterior analysis + frequentist comparison `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L481",
-      "id": "w6_taskplan_q21_posterior_analysis_frequentist_comparison",
       "community": 6,
-      "norm_label": "q21 \u00b7 posterior analysis + frequentist comparison `[ ]`"
+      "norm_label": "q21 \u00b7 posterior analysis + frequentist comparison `[ ]`",
+      "id": "w6_taskplan_q21_posterior_analysis_frequentist_comparison"
     },
     {
       "label": "Q22 \u00b7 Save MCMC trace `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L500",
-      "id": "w6_taskplan_q22_save_mcmc_trace",
       "community": 6,
-      "norm_label": "q22 \u00b7 save mcmc trace `[ ]`"
+      "norm_label": "q22 \u00b7 save mcmc trace `[ ]`",
+      "id": "w6_taskplan_q22_save_mcmc_trace"
     },
     {
       "label": "\u270d\ufe0f Reflect 6 `[ ]`",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L511",
-      "id": "w6_taskplan_reflect_6",
       "community": 6,
-      "norm_label": "\u270d\ufe0f reflect 6 `[ ]`"
+      "norm_label": "\u270d\ufe0f reflect 6 `[ ]`",
+      "id": "w6_taskplan_reflect_6"
     },
     {
       "label": "SUBMISSION CHECKLIST",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L518",
-      "id": "w6_taskplan_submission_checklist",
       "community": 0,
-      "norm_label": "submission checklist"
+      "norm_label": "submission checklist",
+      "id": "w6_taskplan_submission_checklist"
     },
     {
       "label": "Part 1 (Estimation Trinity)",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L520",
-      "id": "w6_taskplan_part_1_estimation_trinity",
       "community": 0,
-      "norm_label": "part 1 (estimation trinity)"
+      "norm_label": "part 1 (estimation trinity)",
+      "id": "w6_taskplan_part_1_estimation_trinity"
     },
     {
       "label": "Part 2 (Sequential Updating)",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L526",
-      "id": "w6_taskplan_part_2_sequential_updating",
       "community": 0,
-      "norm_label": "part 2 (sequential updating)"
+      "norm_label": "part 2 (sequential updating)",
+      "id": "w6_taskplan_part_2_sequential_updating"
     },
     {
       "label": "Part 3 (Multivariate Gaussians)",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L533",
-      "id": "w6_taskplan_part_3_multivariate_gaussians_533",
       "community": 0,
-      "norm_label": "part 3 (multivariate gaussians)"
+      "norm_label": "part 3 (multivariate gaussians)",
+      "id": "w6_taskplan_part_3_multivariate_gaussians_533"
     },
     {
       "label": "Part 4 (PGMs)",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L539",
-      "id": "w6_taskplan_part_4_pgms",
       "community": 0,
-      "norm_label": "part 4 (pgms)"
+      "norm_label": "part 4 (pgms)",
+      "id": "w6_taskplan_part_4_pgms"
     },
     {
       "label": "Part 5 (GP Regression)",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L545",
-      "id": "w6_taskplan_part_5_gp_regression",
       "community": 0,
-      "norm_label": "part 5 (gp regression)"
+      "norm_label": "part 5 (gp regression)",
+      "id": "w6_taskplan_part_5_gp_regression"
     },
     {
       "label": "Part 6 (MCMC)",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L552",
-      "id": "w6_taskplan_part_6_mcmc",
       "community": 0,
-      "norm_label": "part 6 (mcmc)"
+      "norm_label": "part 6 (mcmc)",
+      "id": "w6_taskplan_part_6_mcmc"
     },
     {
       "label": "Submission Artefacts",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L559",
-      "id": "w6_taskplan_submission_artefacts",
       "community": 0,
-      "norm_label": "submission artefacts"
+      "norm_label": "submission artefacts",
+      "id": "w6_taskplan_submission_artefacts"
     },
     {
       "label": "KNOWN GOTCHAS",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L566",
-      "id": "w6_taskplan_known_gotchas",
       "community": 2,
-      "norm_label": "known gotchas"
+      "norm_label": "known gotchas",
+      "id": "w6_taskplan_known_gotchas"
     },
     {
       "label": "REFERENCE FORMULAS",
       "file_type": "document",
       "source_file": "W6_TaskPlan.md",
       "source_location": "L581",
-      "id": "w6_taskplan_reference_formulas",
       "community": 2,
-      "norm_label": "reference formulas"
+      "norm_label": "reference formulas",
+      "id": "w6_taskplan_reference_formulas"
     },
     {
       "label": "W6_Probabilistic_Models_Resource_Guide.pdf",
@@ -895,19 +895,6 @@
       "community": 10,
       "norm_label": "gemini.md",
       "id": "gemini_md"
-    },
-    {
-      "label": "Task Progress Tracker",
-      "file_type": "document",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 4,
-      "norm_label": "task progress tracker",
-      "id": "task_progress_tracker"
     },
     {
       "label": "Master Task Plan",
@@ -1005,6 +992,126 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress",
+      "target": "task_progress_week_6_task_progress"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_notes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_notes_69"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_1_estimation_trinity"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_2_sequential_updating_dirichlet_multinomial"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_3_multivariate_gaussians"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_4_probabilistic_graphical_models"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_5_gaussian_process_regression"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_part_6_mcmc_bayesian_logistic_regression"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_repo_artifacts_found"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_repo_maintenance"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "TASK_PROGRESS.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "task_progress_week_6_task_progress",
+      "target": "task_progress_submission_artifacts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "generate_w6_trace.py",
       "source_location": "L49",
       "weight": 1.0,
@@ -1028,9 +1135,9 @@
       "source_file": ".agents/rules/graphify.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "rules_graphify",
-      "target": "rules_graphify_graphify",
-      "confidence_score": 1.0
+      "target": "rules_graphify_graphify"
     },
     {
       "relation": "contains",
@@ -1121,16 +1228,6 @@
       "confidence_score": 1.0,
       "source": "git_lfs_guide",
       "target": "git_lfs_guide_git_lfs_guide_for_large_model_artifacts"
-    },
-    {
-      "relation": "references",
-      "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "task_progress_tracker",
-      "target": "git_lfs_guide"
     },
     {
       "relation": "contains",
@@ -1280,137 +1377,7 @@
       "source_location": null,
       "weight": 1.0,
       "source": "readme_overview",
-      "target": "task_progress_tracker"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "README.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "readme_overview",
       "target": "w6_taskplan_md"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress",
-      "target": "task_progress_week_6_task_progress"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L69",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_notes"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L69",
-      "weight": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_notes_69",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L13",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_1_estimation_trinity"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L20",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_2_sequential_updating_dirichlet_multinomial"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L27",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_3_multivariate_gaussians"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L33",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_4_probabilistic_graphical_models"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L39",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_5_gaussian_process_regression"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L46",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_part_6_mcmc_bayesian_logistic_regression"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L7",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_repo_artifacts_found"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L13",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_repo_maintenance"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": "L54",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "task_progress_week_6_task_progress",
-      "target": "task_progress_submission_artifacts"
     },
     {
       "relation": "contains",
@@ -1878,9 +1845,9 @@
       "source_file": "W6_TaskPlan.md",
       "source_location": "L533",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "w6_taskplan_submission_checklist",
-      "target": "w6_taskplan_part_3_multivariate_gaussians_533",
-      "confidence_score": 1.0
+      "target": "w6_taskplan_part_3_multivariate_gaussians_533"
     },
     {
       "relation": "contains",
@@ -1936,16 +1903,6 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "TASK_PROGRESS.md",
-      "source_location": null,
-      "weight": 1.0,
-      "source": "task_progress_tracker",
-      "target": "w6_taskplan_md"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
       "source_file": ".github/copilot-instructions.md",
       "source_location": null,
       "weight": 1.0,
@@ -1964,5 +1921,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "ce642eb79a2b5028d9576196608e417587290c20"
+  "built_at_commit": "bf058f57187f5e34569f1c196371f9bda37e15d7"
 }
