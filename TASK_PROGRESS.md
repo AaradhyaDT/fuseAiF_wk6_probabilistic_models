@@ -8,7 +8,14 @@ Use this file to track progress through the Week 6 probabilistic models assignme
 - `W6_Probabilistic_Models_Assignment.ipynb` is present
 - `W6_TaskPlan.md` is present
 - `W6_Probabilistic_Models_Resource_Guide.pdf` is present
-- `telco_bayes_lr_v1.pkl` is present
+- `telco_bayes_lr_v1.pkl` is not currently present in the working tree
+
+## Repo maintenance
+- [x] Sync local `main` branch to `origin/main`
+- [x] Remove oversized `telco_bayes_lr_v1.pkl` from tracked history
+- [x] Add Git LFS configuration and guide
+- [x] Add Git LFS setup helper script
+- [ ] Re-add large model artifact using Git LFS once available
 
 ## Part 1 — Estimation Trinity
 - [ ] Q1: extract experimental groups and verify sample sizes
