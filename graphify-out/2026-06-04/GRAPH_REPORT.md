@@ -5,12 +5,12 @@
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 105 nodes · 96 edges · 18 communities (15 shown, 3 thin omitted)
-- Extraction: 98% EXTRACTED · 2% INFERRED · 0% AMBIGUOUS · INFERRED: 2 edges (avg confidence: 0.85)
+- 104 nodes · 93 edges · 18 communities (15 shown, 3 thin omitted)
+- Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.9)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `ce642eb7`
+- Built from commit: `bf058f57`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -45,12 +45,8 @@
 ## Surprising Connections (you probably didn't know these)
 - `graphify` --references--> `graphify`  [EXTRACTED]
   .github/copilot-instructions.md → GEMINI.md
-- `Overview` --references--> `Task Progress Tracker`  [EXTRACTED]
-  README.md → TASK_PROGRESS.md
 - `Overview` --references--> `Master Task Plan`  [EXTRACTED]
   README.md → W6_TaskPlan.md
-- `Task Progress Tracker` --references--> `Master Task Plan`  [EXTRACTED]
-  TASK_PROGRESS.md → W6_TaskPlan.md
 
 ## Import Cycles
 - None detected.
@@ -74,11 +70,11 @@ Cohesion: 0.17
 Nodes (9): graphify, graphify-out/graph.json, graphify-out/GRAPH_REPORT.md, graphify, graphify explain, graphify query, /graphify command, graphify-out/wiki/index.md (+1 more)
 
 ### Community 4 - "Community 4"
-Cohesion: 0.20
-Nodes (9): fuseAiF_wk6_probabilistic_models, How to use this repo, Notes, Overview, Repository structure, Setup, Submission artifacts, Task Progress Tracker (+1 more)
+Cohesion: 0.22
+Nodes (8): fuseAiF_wk6_probabilistic_models, How to use this repo, Notes, Overview, Repository structure, Setup, Submission artifacts, Master Task Plan
 
 ### Community 5 - "Community 5"
-Cohesion: 0.25
+Cohesion: 0.22
 Nodes (8): Best practice, Cloning this repo in the future, Git LFS Guide for Large Model Artifacts, How to add a new model file, If you already committed a large file, Setup steps, What was added, Why use Git LFS
 
 ### Community 6 - "Community 6"
@@ -102,7 +98,7 @@ Cohesion: 0.33
 Nodes (6): PART 3 · MULTIVARIATE GAUSSIANS, Q10 · 3D Covariance + Condition Number + Marginalisation `[ ]`, Q8a · Fit 2D Gaussian `[ ]`, Q8b · Scatter + 1σ/2σ/3σ confidence ellipses `[ ]`, Q9 · Conditional Gaussian P(MonthlyCharges | tenure=24) `[ ]`, ✍️ Reflect 3 `[ ]`
 
 ## Knowledge Gaps
-- **72 isolated node(s):** `graphify`, `Workflow: graphify`, `Why use Git LFS`, `What was added`, `Setup steps` (+67 more)
+- **73 isolated node(s):** `Repo artifacts found`, `Repo maintenance`, `Part 1 — Estimation Trinity`, `Part 2 — Sequential Updating & Dirichlet-Multinomial`, `Part 3 — Multivariate Gaussians` (+68 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -110,10 +106,10 @@ Nodes (6): PART 3 · MULTIVARIATE GAUSSIANS, Q10 · 3D Covariance + Condition Nu
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `W6 — Probabilistic Models & Bayesian Inference` connect `Community 2` to `Community 0`, `Community 6`, `Community 7`, `Community 8`, `Community 9`, `Community 17`?**
-  _High betweenness centrality (0.198) - this node is a cross-community bridge._
+  _High betweenness centrality (0.201) - this node is a cross-community bridge._
 - **Why does `SUBMISSION CHECKLIST` connect `Community 0` to `Community 17`, `Community 2`?**
-  _High betweenness centrality (0.060) - this node is a cross-community bridge._
+  _High betweenness centrality (0.061) - this node is a cross-community bridge._
 - **Why does `PART 6 · MCMC — BAYESIAN LOGISTIC REGRESSION` connect `Community 6` to `Community 2`?**
-  _High betweenness centrality (0.052) - this node is a cross-community bridge._
-- **What connects `graphify`, `Workflow: graphify`, `Why use Git LFS` to the rest of the system?**
-  _73 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _High betweenness centrality (0.053) - this node is a cross-community bridge._
+- **What connects `Repo artifacts found`, `Repo maintenance`, `Part 1 — Estimation Trinity` to the rest of the system?**
+  _74 weakly-connected nodes found - possible documentation gaps or missing edges._
